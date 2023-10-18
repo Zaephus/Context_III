@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Joost/Documents/HKU/Jaar 3 Art/Context3Quick/VFXA_Unreal-5_Sandbox/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Joost/Documents/HKU/Jaar 3 Art/Context3Quick/VFXA_Unreal-5_Sandbox/Content/VFXASandbox/Maps/BarrenLand.umap",
+				"C:/Users/Joost/Documents/HKU/Jaar 3 Art/Context3Quick/VFXA_Unreal-5_Sandbox/Content/VFXASandbox/Environment/Terrain/00_Common/MI_env_tileable_Inst_Barren.uasset",
+				"C:/Users/Joost/Documents/HKU/Jaar 3 Art/Context3Quick/VFXA_Unreal-5_Sandbox/Content/VFXASandbox/Environment/Terrain/00_Common/MI_env_tileable_Inst.uasset",
+				"C:/Users/Joost/Documents/HKU/Jaar 3 Art/Context3Quick/VFXA_Unreal-5_Sandbox/Content/VFXASandbox/Environment/Water/River/MI_River_01.uasset",
+				"C:/Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Content/VFXASandbox/Maps/Wind_Dandelion_Environment.umap",
+				"C:/Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Content/VFXASandbox/Maps/Dandelion_Environment.umap",
 				"/Applications/Context3Unreal/Context_III/Unreal_Context_III/Context_III/Content/StarterContent/Architecture/Wall_Door_400x400.uasset",
 				"/Applications/Context3Unreal/Context_III/Unreal_Context_III/Context_III/Content/Sound/Music/BackgroundMusic.uasset",
 				"/Applications/Context3Unreal/Context_III/Unreal_Context_III/Context_III/Content/Sound/SFX/Waterfall.uasset",
@@ -19,12 +26,7 @@
 				"/Applications/Context3Unreal/Context_III/Unreal_Context_III/Context_III/Content/Sound/Music/SFX_Context_3/tornado-sound-better-quality-68141_2.uasset",
 				"/Applications/Context3Unreal/Context_III/Unreal_Context_III/Context_III/Content/Sound/Music/SFX_Context_3/wind-outside-sound-ambient-141989_2.uasset",
 				"/Applications/Context3Unreal/Context_III/Unreal_Context_III/Context_III/Content/Sound/Music/SFX_Context_3/wondrous-waters-119518_2.uasset",
-				"/Applications/Context3Unreal/Context_III/Unreal_Context_III/Context_III/Content/VFXASandbox/Maps/BarrenLand.umap",
-				"C:/Users/Joost/Documents/HKU/Jaar 3 Art/Context3Quick/VFXA_Unreal-5_Sandbox/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/Joost/Documents/HKU/Jaar 3 Art/Context3Quick/VFXA_Unreal-5_Sandbox/Content/VFXASandbox/Maps/BarrenLand.umap",
-				"C:/Users/Joost/Documents/HKU/Jaar 3 Art/Context3Quick/VFXA_Unreal-5_Sandbox/Content/VFXASandbox/Environment/Terrain/00_Common/MI_env_tileable_Inst_Barren.uasset",
-				"C:/Users/Joost/Documents/HKU/Jaar 3 Art/Context3Quick/VFXA_Unreal-5_Sandbox/Content/VFXASandbox/Environment/Terrain/00_Common/MI_env_tileable_Inst.uasset",
-				"C:/Users/Joost/Documents/HKU/Jaar 3 Art/Context3Quick/VFXA_Unreal-5_Sandbox/Content/VFXASandbox/Environment/Water/River/MI_River_01.uasset"
+				"/Applications/Context3Unreal/Context_III/Unreal_Context_III/Context_III/Content/VFXASandbox/Maps/BarrenLand.umap"
 			]
 		}
 	]

@@ -6,9 +6,6 @@ using UnityEngine;
 public class MazeController : MonoBehaviour {
 
     [SerializeField]
-    private GameObject maze;
-    
-    [SerializeField]
     private Vector3 dir;
 
     [SerializeField, Range(-90, 90)]
@@ -16,6 +13,7 @@ public class MazeController : MonoBehaviour {
 
     private void Update() {
         dir = new Vector3(x, y, z);
-        maze.transform.eulerAngles = dir;
+        transform.eulerAngles = dir;
     }
+    
 }

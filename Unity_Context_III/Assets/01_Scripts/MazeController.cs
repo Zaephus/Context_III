@@ -5,15 +5,49 @@ using UnityEngine;
 
 public class MazeController : MonoBehaviour {
 
+    public static System.Action<Vector2> ReceiveVectorCall;
+
+    private Vector2 targetRotation;
+
     [SerializeField]
-    private Vector3 dir;
+    private float maxRotationSpeed;
+    [SerializeField, Range(0.0f, 45.0f)]
+    private float maxAngle = 45.0f;
 
-    [SerializeField, Range(-90, 90)]
-    private float x, y, z;
+    public bool manualRotation = false;
 
-    private void Update() {
-        dir = new Vector3(x, y, z);
-        transform.eulerAngles = dir;
+    [SerializeField, Range(-45.0f, 45.0f)]
+    private float x, z;
+
+    private void Start() {
+        ReceiveVectorCall += ReceiveVector;
+    }
+
+    private void FixedUpdate() {
+
+        if(manualRotation) {
+            x = Mathf.Clamp(x, -maxAngle, maxAngle);
+            z = Mathf.Clamp(z, -maxAngle, maxAngle);
+            targetRotation = new Vector2(x, z);
+        }
+
+        RotateMaze(targetRotation);
+
+    }
+
+    private void RotateMaze(Vector2 _vector) {
+        Vector3 targetRot = new(_vector.x, 0.0f, _vector.y);
+
+        transform.rotation = Quaternion.Lerp(transform.rotation, Quaternion.Euler(targetRot), maxRotationSpeed * Time.fixedDeltaTime);
+    }
+
+    private void ReceiveVector(Vector2 _vector) {
+        if(!manualRotation) {
+            targetRotation = new(
+                _vector.x * maxAngle,
+                _vector.y * maxAngle
+            );
+        }
     }
     
 }

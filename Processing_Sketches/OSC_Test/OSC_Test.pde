@@ -14,7 +14,7 @@ void setup() {
   size(400,400);
   frameRate(25);
   /* start oscP5, listening for incoming messages at port 12000 */
-  oscP5 = new OscP5(this, 6200);
+  oscP5 = new OscP5(this, 6201);
   
   /* myRemoteLocation is a NetAddress. a NetAddress takes 2 parameters,
    * an ip address and a port number. myRemoteLocation is used as parameter in
@@ -23,7 +23,7 @@ void setup() {
    * and the port of the remote location address are the same, hence you will
    * send messages back to this sketch.
    */
-  myRemoteLocation = new NetAddress("127.0.0.1",6201);
+  myRemoteLocation = new NetAddress("10.3.4.5",6201);
 }
 
 
@@ -50,5 +50,6 @@ void oscEvent(OscMessage theOscMessage) {
   /* print the address pattern and the typetag of the received OscMessage */
   print("### received an osc message.");
   print(" addrpattern: "+theOscMessage.addrPattern());
-  println(" typetag: "+theOscMessage.typetag());
+  print(" argument 1: "+theOscMessage.arguments()[0]);
+  println(" argument 2: "+theOscMessage.arguments()[1]);
 }

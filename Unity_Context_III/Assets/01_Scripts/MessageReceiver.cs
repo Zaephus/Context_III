@@ -11,13 +11,21 @@ public class MessageReceiver : MonoBehaviour {
     HandleOscPacket callback = delegate(OscPacket _packet) {
         OscMessage message = (OscMessage)_packet;
         Debug.Log(message.Address);
-        for(int i = 0; i < message.Arguments.Count; i++) {
-            Debug.Log(message.Arguments[i]);
+
+        switch(message.Address) {
+            case "/Zaephus/Vector":
+                Vector2 receivedVec = new((float)message.Arguments[0], (float)message.Arguments[1]);
+                MazeController.ReceiveVectorCall?.Invoke(receivedVec);
+                break;
         }
     };
 
     private void Start() {
         listener = new UDPListener(6201, callback);
+
+        // OscMessage message = new OscMessage("/test/1", 23, 42.0f);
+        // UDPSender sender = new UDPSender("192.168.1.45", 6200);
+        // sender.Send(message);
     }
 
     private void Update() {

@@ -1,9 +1,14 @@
 
 import processing.video.*;
 import blobDetection.*;
+import oscP5.*;
+import netP5.*;
 
 Capture video;
 BlobDetection blobDetect;
+
+OscP5 osc;
+NetAddress targetLocation;
 
 boolean frameAvailable = false;
 
@@ -15,8 +20,37 @@ void setup() {
   
   size(640, 640);
   
-  video = new Capture(this, width, height, Capture.list()[1], 5);
+  setupOsc();
+  setupVideo();
+  setupBlobDetection();
+  
+}
+
+void setupOsc() {
+  
+  osc = new OscP5(this, 6200);
+  
+  // Target self
+  targetLocation = new NetAddress("127.0.0.1", 6201);
+  
+  // Target other pc
+  // targetLocation = new NetAdress("10.3.4.5", 6201);
+  
+}
+
+void setupVideo() {
+  
+  // Logitech Cam
+  //video = new Capture(this, width, height, Capture.list()[1], 5);
+  
+  // Built in Cam
+  video = new Capture(this, width, height, Capture.list()[0]);
+  
   video.start();
+  
+}
+
+void setupBlobDetection() {
   
   blobImage = new PImage(80, 80);
   
@@ -24,6 +58,11 @@ void setup() {
   blobDetect.setPosDiscrimination(true);
   blobDetect.setThreshold(0.25f);
   
+}
+
+void oscEvent(OscMessage _message) {
+  print("Received an osc message");
+  println(_message.arguments()[0]);
 }
 
 void captureEvent(Capture _video) {
@@ -46,11 +85,10 @@ void draw() {
     for(int i = 0; i < blobDetect.getBlobNb(); i++) {
       PVector tempVec = new PVector(map(blobDetect.getBlob(i).x, 0, 1, -1, 1), map(blobDetect.getBlob(i).y, 0, 1, -1, 1));
       avgPos.add(tempVec);
-      println(tempVec);
     }
     
     direction = PVector.div(avgPos, blobDetect.getBlobNb());
-    //println(direction);
+    oscSendVector(direction);
     
     strokeWeight(3);
     stroke(0, 0, 255);
@@ -60,6 +98,17 @@ void draw() {
     circle((width / 2) + direction.x * 50, (height / 2) + direction.y * 50, 8);
     
   }
+  
+}
+
+void oscSendVector(PVector _vector) {
+  
+  OscMessage message = new OscMessage("/Zaephus/Vector");
+  
+  message.add(_vector.x);
+  message.add(_vector.y);
+  
+  osc.send(message, targetLocation);
   
 }
 

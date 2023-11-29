@@ -16,6 +16,8 @@ PImage blobImage;
 
 PVector direction;
 
+float currentThreshold = 0.5f;
+
 void setup() {
   
   size(640, 640);
@@ -41,10 +43,10 @@ void setupOsc() {
 void setupVideo() {
   
   // Logitech Cam
-  //video = new Capture(this, width, height, Capture.list()[1], 5);
+  video = new Capture(this, width, height, Capture.list()[1], 5);
   
   // Built in Cam
-  video = new Capture(this, width, height, Capture.list()[0]);
+  //video = new Capture(this, width, height, Capture.list()[0]);
   
   video.start();
   
@@ -56,7 +58,7 @@ void setupBlobDetection() {
   
   blobDetect = new BlobDetection(blobImage.width, blobImage.height);
   blobDetect.setPosDiscrimination(true);
-  blobDetect.setThreshold(0.25f);
+  blobDetect.setThreshold(currentThreshold);
   
 }
 
@@ -74,7 +76,7 @@ void draw() {
   
   if(frameAvailable) {
     
-    //video.filter(THRESHOLD, 0.3);
+    video.filter(THRESHOLD, 0.3);
     image(video, 0, 0);
     
     blobImage.copy(video, 0, 0, video.width, video.height, 0, 0, blobImage.width, blobImage.height);
@@ -95,10 +97,19 @@ void draw() {
     line(width / 2, height / 2, (width / 2) + direction.x * 50, (height / 2) + direction.y * 50);
     fill(255, 0, 255);
     noStroke();
-    circle((width / 2) + direction.x * 50, (height / 2) + direction.y * 50, 8);
     
   }
   
+}
+
+void keyPressed() {
+  if(key == 'w') {
+    currentThreshold += 0.05f;
+  }
+  else if(key == 's') {
+    currentThreshold -= 0.05f;
+  }
+  blobDetect.setThreshold(currentThreshold);
 }
 
 void oscSendVector(PVector _vector) {

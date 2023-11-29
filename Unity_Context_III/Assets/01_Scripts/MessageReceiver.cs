@@ -29,7 +29,11 @@ public class MessageReceiver : MonoBehaviour {
     }
 
     private void Update() {
-
+        if(Input.GetKeyDown(KeyCode.Q)) {
+            OscMessage message = new("/Zaephus/Calibrate", 23, 42.0f);
+            UDPSender sender = new("127.0.0.1", 6200);
+            sender.Send(message);
+        }
     }
 
     private void OnDisable() {

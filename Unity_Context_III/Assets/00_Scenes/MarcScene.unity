@@ -270,6 +270,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1386566307}
   - component: {fileID: 1386566306}
+  - component: {fileID: 1386566308}
   m_Layer: 0
   m_Name: Game Manager
   m_TagString: Untagged
@@ -304,6 +305,24 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1386566308
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1386566305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18c400e45846a7c4ba592cf082f087c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1411467165 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7257038717305213858, guid: 71e426e45c556bf47b339cc8ccbf31b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 7548793889955017325}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6350614794186485321
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -362,6 +381,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8128595334296329501, guid: 4d0402b242e346b42be2a853861d5697,
+        type: 3}
+      propertyPath: ballTransform
+      value: 
+      objectReference: {fileID: 1411467165}
     - target: {fileID: 8461723505044013334, guid: 4d0402b242e346b42be2a853861d5697,
         type: 3}
       propertyPath: m_Name

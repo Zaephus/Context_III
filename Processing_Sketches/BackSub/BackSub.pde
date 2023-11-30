@@ -37,10 +37,10 @@ void setupOsc() {
   osc = new OscP5(this, 6200);
   
   // Target self
-  targetLocation = new NetAddress("127.0.0.1", 6201);
+  //targetLocation = new NetAddress("127.0.0.1", 6201);
   
   // Target other pc
-  // targetLocation = new NetAdress("10.3.4.5", 6201);
+   targetLocation = new NetAddress("10.3.26.89", 6200);
   
 }
 
@@ -242,6 +242,10 @@ void debugDrawBlobs(float _x, float _y, float _w, float _h, boolean _drawBounds,
         stroke(255, 0, 0);
         rect(_x + blob.xMin * _w, _y + blob.yMin * _h, blob.w * _w, blob.h * _h);
       }
+      
+      fill(255, 0, 255);
+      circle(_x + blob.x * _w, _y + blob.y * _h, 10);
+      noFill();
       
     }
     

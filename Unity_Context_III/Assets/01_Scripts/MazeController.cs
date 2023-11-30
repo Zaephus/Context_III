@@ -6,6 +6,8 @@ using UnityEngine;
 public class MazeController : MonoBehaviour {
 
     public static System.Action<Vector2> ReceiveVectorCall;
+    public static System.Action ResetCall;
+    public static System.Action StartCall;
 
     private Vector2 targetRotation;
 
@@ -19,8 +21,17 @@ public class MazeController : MonoBehaviour {
     [SerializeField, Range(-45.0f, 45.0f)]
     private float x, z;
 
+    [SerializeField]
+    private Transform ballTransform;
+    private Vector3 ballStartPosition;
+
+    private bool canMove = false;
+
     private void Start() {
+        ballStartPosition = ballTransform.position;
         ReceiveVectorCall += ReceiveVector;
+        ResetCall += ResetMaze;
+        StartCall += StartMaze;
     }
 
     private void FixedUpdate() {
@@ -31,7 +42,9 @@ public class MazeController : MonoBehaviour {
             targetRotation = new Vector2(x, z);
         }
 
-        RotateMaze(targetRotation);
+        if(canMove) {
+            RotateMaze(targetRotation);
+        }
 
     }
 
@@ -39,6 +52,17 @@ public class MazeController : MonoBehaviour {
         Vector3 targetRot = new(_vector.x, 0.0f, _vector.y);
 
         transform.rotation = Quaternion.Lerp(transform.rotation, Quaternion.Euler(targetRot), maxRotationSpeed * Time.fixedDeltaTime);
+    }
+
+    private void ResetMaze() {
+        transform.rotation = Quaternion.identity;
+        ballTransform.position = ballStartPosition;
+        ballTransform.GetComponent<Rigidbody>().velocity = Vector3.zero;
+        canMove = false;
+    }
+
+    private void StartMaze() {
+        canMove = true;
     }
 
     private void ReceiveVector(Vector2 _vector) {

@@ -53,6 +53,10 @@ void setupVideo() {
     }
   }
   
+  if(video == null) {
+    video = new Capture(this, 480, height, Capture.list()[0]);
+  }
+  
   video.start();
   
 }
@@ -120,7 +124,12 @@ void draw() {
   
   strokeWeight(3);
   stroke(0, 0, 255);
-  line(960 + fin.width / 2, fin.height / 2, 960 + (fin.width / 2) + avgPos.x * 50, (fin.height / 2) + avgPos.y * 50);
+  line(960 + fin.width / 2, fin.height / 2, 960 + fin.width/2 + avgPos.x * 240, fin.height/2 + avgPos.y * 240);
+  strokeWeight(1);
+  stroke(255, 255, 0);
+  for(int i = 0; i < blobDetect.getBlobNb(); i++) {
+    line(960 + fin.width / 2, fin.height / 2, 960 + blobDetect.getBlob(i).x * 480, blobDetect.getBlob(i).y * 480);
+  }
   fill(255, 0, 255);
   noStroke();
   
@@ -144,22 +153,63 @@ void keyPressed() {
 
 PVector computeAvgPos() {
   
-  PVector avgPos = new PVector(0, 0);
+  PVector avg = new PVector(0, 0);
   
   int blobAmount = blobDetect.getBlobNb();
   
   if(blobAmount <= 0) {
-    return avgPos;
+    return avg;
   }
+  
+  pushStyle();
+  fill(255, 0, 255);
+  noStroke();
+  
+  IntList containedBlobNums = new IntList();
   
   for(int i = 0; i < blobAmount; i++) {
-    PVector tempVec = new PVector(map(blobDetect.getBlob(i).x, 0, 1, -1, 1), map(blobDetect.getBlob(i).y, 0, 1, -1, 1));
-    avgPos.add(tempVec);
+    for(int j = 0; j < blobAmount; j++) {
+      if(i == j || containedBlobNums.hasValue(i)) {
+        continue;
+      }
+      
+      if(isInBlob(blobDetect.getBlob(i), blobDetect.getBlob(j))) {
+        containedBlobNums.append(i);
+        circle(960 + blobDetect.getBlob(i).x * 480, blobDetect.getBlob(i).y * 480, 10);
+        continue;
+      }
+    }
   }
   
-  avgPos.div(blobAmount);
+  if(blobAmount-containedBlobNums.size() <= 0) {
+    return avg;
+  }
   
-  return avgPos;
+  for(int i = 0; i < containedBlobNums.size(); i++) {      
+    PVector tempVec = new PVector(map(blobDetect.getBlob(i).x, 0, 1, -1, 1), map(blobDetect.getBlob(i).y, 0, 1, -1, 1));
+    tempVec.normalize();
+    tempVec.mult((blobDetect.getBlob(i).w * 480) * (blobDetect.getBlob(i).h * 480));
+    avg.add(tempVec);
+  }
+  
+  popStyle();
+  //avg.div((blobAmount-containedBlobNums.size()));
+  avg.div(480 * 480);
+  println(avg);
+  
+  return avg;
+  
+}
+
+boolean isInBlob(Blob _blobA, Blob _blobB) {
+  
+  if(_blobA.xMin > _blobB.xMin && _blobA.xMax < _blobB.xMax) {
+    if(_blobA.yMin > _blobB.yMin && _blobA.yMax < _blobB.yMax) {
+      return true;
+    }
+  }
+  
+  return false;
   
 }
 
@@ -243,9 +293,9 @@ void debugDrawBlobs(float _x, float _y, float _w, float _h, boolean _drawBounds,
         rect(_x + blob.xMin * _w, _y + blob.yMin * _h, blob.w * _w, blob.h * _h);
       }
       
-      fill(255, 0, 255);
-      circle(_x + blob.x * _w, _y + blob.y * _h, 10);
-      noFill();
+      //fill(255, 0, 255);
+      //circle(_x + blob.x * _w, _y + blob.y * _h, 10);
+      //noFill();
       
     }
     

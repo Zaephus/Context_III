@@ -20,6 +20,9 @@ public class WebcamViewer : MonoBehaviour {
     [SerializeField, Range(0.0f, 1.0f)]
     private float blobDetectThreshold = 0.5f;
 
+    [SerializeField, Range(0.0f, 1.0f)]
+    private float vectorModifier = 0.5f;
+
     [SerializeField]
     private float minBlobSize = 0.01f;
 
@@ -79,6 +82,7 @@ public class WebcamViewer : MonoBehaviour {
 
         if(Input.GetKeyDown(KeyCode.Q)) {
             backSub.Calibrate();
+            MazeController.ResetCall?.Invoke();
         }
     }
 
@@ -93,13 +97,13 @@ public class WebcamViewer : MonoBehaviour {
 
         for(int i = 0; i < blobAmount; i++) {
             Blob blob = blobDetect.GetBlob(i);
-            float size = blob.w * image.rectTransform.rect.width * blob.h * image.rectTransform.rect.height;
+            float size = blob.w * image.rectTransform.rect.width * blob.h * image.rectTransform.rect.height * vectorModifier;
             dir += new Vector3(blob.x, blob.y, 0.0f) * size;
             dir = new Vector3(Map(dir.x, 0.0f, size, -1.0f, 1.0f), Map(dir.y, 0.0f, size, -1.0f, 1.0f), 0.0f);
         }
 
         dir /= blobAmount;
-        // Debug.Log($"{dir}, {blobAmount}");
+        
     }
 
     private void OnDrawGizmos() {

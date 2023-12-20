@@ -22,7 +22,14 @@ public class MazeController : MonoBehaviour {
     private float x, z;
 
     [SerializeField]
+    private float restartWaitTime = 60.0f;
+
+    [SerializeField]
     private Transform ballTransform;
+
+    [SerializeField]
+    private GameObject gameTex;
+
     private Vector3 ballStartPosition;
 
     private bool canMove = false;
@@ -32,6 +39,17 @@ public class MazeController : MonoBehaviour {
         ReceiveVectorCall += ReceiveVector;
         ResetCall += ResetMaze;
         StartCall += StartMaze;
+    }
+
+    private void Update() {
+        if(Input.GetKeyDown(KeyCode.Space)) {
+            if(canMove) {
+                ResetMaze();
+            }
+            else {
+                StartMaze();
+            }
+        }
     }
 
     private void FixedUpdate() {
@@ -51,7 +69,7 @@ public class MazeController : MonoBehaviour {
     private void RotateMaze(Vector2 _vector) {
         Vector3 targetRot = new(_vector.x, 0.0f, _vector.y);
 
-        transform.rotation = Quaternion.Lerp(transform.rotation, Quaternion.Euler(targetRot), maxRotationSpeed * Time.fixedDeltaTime);
+        transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.Euler(targetRot), maxRotationSpeed * Time.fixedDeltaTime);
     }
 
     private void ResetMaze() {
@@ -71,6 +89,23 @@ public class MazeController : MonoBehaviour {
                 _vector.x * maxAngle,
                 _vector.y * maxAngle
             );
+        }
+    }
+
+    private IEnumerator MazeFinished() {
+        ResetMaze();
+        gameTex.SetActive(false);
+        yield return new WaitForSeconds(restartWaitTime);
+        gameTex.SetActive(true);
+        yield return new WaitForSeconds(1.0f);
+        StartMaze();
+    }
+
+    
+
+    private void OnTriggerEnter(Collider _other) {
+        if(_other.GetComponent<BallController>() != null) {
+            StartCoroutine(MazeFinished());
         }
     }
     

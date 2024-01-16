@@ -9075,3 +9075,12 @@ Should the existing actor be duplicated for the pasted binding?
 [2024.01.16-14.41.21:300][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.56 sec (total: 54.8 sec)
 [2024.01.16-14.41.21:313][149]AssetCheck: New page: Asset Save: Bo_Test
 [2024.01.16-14.41.21:313][149]LogContentValidation: Display: Validating /Script/Engine.World /Game/DreamscapeSeries/DreamscapeTower/Maps/Bo_Test.Bo_Test
+[2024.01.16-14.41.47:138][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.16-14.41.48:639][339]LogSlate: Window 'Save Content' being destroyed
+[2024.01.16-14.41.48:649][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.16-14.41.48:713][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.16-14.41.48:727][339]LogSavePackage: Moving output files for package: /Game/Models/Bo_Models/anim_test/FLOWERBLOOM
+[2024.01.16-14.41.48:727][339]LogSavePackage: Moving 'C:/Users/Bo/Documents/GitHub/Context/Context_III/Unreal_Context_III/Context_III/Saved/FLOWERBLOOME016F36248723B3AFDC286A266B43F98.tmp' to 'C:/Users/Bo/Documents/GitHub/Context/Context_III/Unreal_Context_III/Context_III/Content/Models/Bo_Models/anim_test/FLOWERBLOOM.uasset'
+[2024.01.16-14.41.48:736][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 54.9 sec)
+[2024.01.16-14.41.48:738][339]AssetCheck: New page: Asset Save: FLOWERBLOOM
+[2024.01.16-14.41.48:738][339]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Models/Bo_Models/anim_test/FLOWERBLOOM.FLOWERBLOOM

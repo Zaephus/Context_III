@@ -375,7 +375,9 @@ MonoBehaviour:
   manualRotation: 0
   x: 0
   z: 0
+  restartWaitTime: 60
   ballTransform: {fileID: 0}
+  gameTex: {fileID: 0}
 --- !u!65 &646159666553946864
 BoxCollider:
   m_ObjectHideFlags: 0

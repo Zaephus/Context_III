@@ -22,7 +22,7 @@ public class MazeController : MonoBehaviour {
     private float x, z;
 
     [SerializeField]
-    private float restartWaitTime = 60.0f;
+    private float restartWaitTimeInSeconds = 60.0f;
 
     [SerializeField]
     private Transform ballTransform;
@@ -36,6 +36,7 @@ public class MazeController : MonoBehaviour {
 
     private void Start() {
         ballStartPosition = ballTransform.position;
+        ballTransform.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezeAll;
         ReceiveVectorCall += ReceiveVector;
         ResetCall += ResetMaze;
         StartCall += StartMaze;
@@ -73,14 +74,19 @@ public class MazeController : MonoBehaviour {
     }
 
     private void ResetMaze() {
+        Debug.Log("Resetted");
         transform.rotation = Quaternion.identity;
         ballTransform.position = ballStartPosition;
-        ballTransform.GetComponent<Rigidbody>().velocity = Vector3.zero;
+        ballTransform.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezeAll;
+        x = 0;
+        z = 0;
         canMove = false;
     }
 
     private void StartMaze() {
         canMove = true;
+        Debug.Log(ballTransform.GetComponent<Rigidbody>().IsSleeping());
+        ballTransform.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.None;
     }
 
     private void ReceiveVector(Vector2 _vector) {
@@ -95,7 +101,7 @@ public class MazeController : MonoBehaviour {
     private IEnumerator MazeFinished() {
         ResetMaze();
         gameTex.SetActive(false);
-        yield return new WaitForSeconds(restartWaitTime);
+        yield return new WaitForSeconds(restartWaitTimeInSeconds);
         gameTex.SetActive(true);
         yield return new WaitForSeconds(1.0f);
         StartMaze();

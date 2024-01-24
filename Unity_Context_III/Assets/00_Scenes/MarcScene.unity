@@ -1177,6 +1177,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5718344902767456652, guid: 4d0402b242e346b42be2a853861d5697,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 08096f543fc93ce48a8e8e284a663acf, type: 2}
     - target: {fileID: 8128595334296329501, guid: 4d0402b242e346b42be2a853861d5697,
         type: 3}
       propertyPath: gameTex
@@ -1207,6 +1212,16 @@ PrefabInstance:
       propertyPath: restartWaitTimeInSeconds
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 8180438606837762830, guid: 4d0402b242e346b42be2a853861d5697,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 17ac534b4e1c58249b5c69c7a7082732, type: 2}
+    - target: {fileID: 8180438606837762830, guid: 4d0402b242e346b42be2a853861d5697,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5d78ac77fca2b944fbf6d61bb062d3d2, type: 2}
     - target: {fileID: 8461723505044013334, guid: 4d0402b242e346b42be2a853861d5697,
         type: 3}
       propertyPath: m_Name

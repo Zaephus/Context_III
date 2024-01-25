@@ -7725,3 +7725,1376 @@ Should the existing actor be duplicated for the pasted binding?
 [2024.01.24-21.32.52:386][805]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto7
 [2024.01.24-21.32.52:386][805]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/finale_anim_Auto74AB6852D4E89ECA914C478850687164D.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto7.uasset'
 [2024.01.24-21.32.52:386][805]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.01.24-21.40.20:304][585]LogDerivedDataCache: C:/Users/Joost/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:31.651 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16381 files in 19035 folders with total size 2672 MiB.
+[2024.01.24-21.52.17:078][735]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Razer Seiren X), InstanceID=1
+[2024.01.24-21.52.17:193][735]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25344
+[2024.01.24-21.52.17:529][736]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f840402f-4be8-44f2-b2c3-4490c9eee66f}, Name=Speakers (Razer Seiren X)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=14.07
+[2024.01.24-21.52.17:529][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.24-21.52.17:531][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.24-21.58.57:122][927]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G27CQ4 (NVIDIA High Definition Audio), InstanceID=1
+[2024.01.24-21.58.58:558][927]LogViewport: Scene viewport resized to 1792x777, mode Windowed.
+[2024.01.24-21.58.59:052][927]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25344
+[2024.01.24-21.58.59:405][929]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f382485c-0e9e-48bb-8116-28a03d88f165}, Name=MSI G27CQ4 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=73.93
+[2024.01.24-21.58.59:405][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.24-21.58.59:407][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.24-21.58.59:585][930]LogViewport: Scene viewport resized to 1792x753, mode Windowed.
+[2024.01.24-22.06.09:643][791]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.06.10:823][843]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Spline3/DandelionWithCamera.DandelionWithCamera
+[2024.01.24-22.06.10:833][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.06.10:833][843]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.06.44:127][ 12]LogSlate: Took 0.005997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.24-22.08.28:900][872]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2024.01.24-22.08.30:543][872]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto8
+[2024.01.24-22.08.30:544][872]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Tentoonstelling_Scene_Auto8337DC77B412DB27D74DFD2A6D5AB9B4A.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto8.umap'
+[2024.01.24-22.08.30:552][872]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto8.umap is in the /Temp path, will not scan.
+[2024.01.24-22.08.30:553][872]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene' took 1.686
+[2024.01.24-22.08.30:553][872]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.686
+[2024.01.24-22.08.30:553][872]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Spline3/DandelionWithCamera] ([2] browsable assets)...
+[2024.01.24-22.08.30:563][872]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Spline3/DandelionWithCamera.DandelionWithCamera]
+[2024.01.24-22.08.30:563][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Spline3/DandelionWithCamera]
+[2024.01.24-22.08.30:587][872]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Spline3/DandelionWithCamera_Auto8
+[2024.01.24-22.08.30:587][872]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/DandelionWithCamera_Auto898DA8C0248FC13299702DF9A11E3497F.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Blueprints/Spline3/DandelionWithCamera_Auto8.uasset'
+[2024.01.24-22.08.30:588][872]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/BOBOBOOB/physics/finale_anim] ([1] browsable assets)...
+[2024.01.24-22.08.30:588][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/finale_anim]
+[2024.01.24-22.08.30:600][872]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto8
+[2024.01.24-22.08.30:600][872]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/finale_anim_Auto8E70AEC5A477E38595420728BDB5CE4F5.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto8.uasset'
+[2024.01.24-22.08.30:601][872]LogFileHelpers: Auto-saving content packages took 0.048
+[2024.01.24-22.12.09:988][706]LogSlate: Window 'DandelionWithCamera' being destroyed
+[2024.01.24-22.14.51:950][572]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed5_Anim.b_KANKER_seed5_Anim
+[2024.01.24-22.14.51:953][572]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.14.51:953][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.14.51:962][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.14.52:276][572]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.14.52:276][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.14.52:419][572]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.14.52:420][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.14.52:745][572]LogViewport: Scene viewport resized to 1141x629, mode Windowed.
+[2024.01.24-22.14.52:786][572]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.24-22.15.02:578][971]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed5_Skeleton.b_KANKER_seed5_Skeleton
+[2024.01.24-22.15.02:587][971]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.15.02:587][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.15.02:595][971]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.15.02:892][971]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.15.02:892][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.15.03:007][971]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2024.01.24-22.15.03:041][971]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.24-22.15.03:444][988]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed5
+[2024.01.24-22.15.03:446][988]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.15.03:446][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.15.03:469][988]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.15.03:787][988]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2024.01.24-22.15.03:888][988]LogViewport: Scene viewport resized to 1430x471, mode Windowed.
+[2024.01.24-22.15.33:813][ 59]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Models/BOBOBOOB/physics/base.base
+[2024.01.24-22.15.33:816][ 59]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.15.33:816][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.15.33:827][ 59]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.15.33:827][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.15.33:837][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.15.34:210][ 59]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.15.34:210][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.15.34:366][ 59]LogViewport: Scene viewport resized to 476x411, mode Windowed.
+[2024.01.24-22.17.03:716][ 25]LogLinker: Warning: Failed to load '/Game/Code/TopDownBP/Blueprints/TopDownGameMode': Can't find file.
+[2024.01.24-22.17.03:716][ 25]LogLinker: Warning: Failed to load '/Game/Code/TopDownBP/Blueprints/TopDownGameMode': Can't find file.
+[2024.01.24-22.17.03:717][ 25]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Code/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2024.01.24-22.17.05:002][103]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.17.05:273][113]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.Tentoonstelling_Scene
+[2024.01.24-22.17.05:274][113]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.17.05:274][113]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.19.56:353][751]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed5_PhysicsAsset.b_KANKER_seed5_PhysicsAsset
+[2024.01.24-22.19.56:365][751]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-22.19.56:365][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-22.19.56:426][751]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.19.56:777][751]LogToolMenus: Warning: Toolbar 'AssetEditor.PhysicsAssetEditor.ToolBar.PhysicsAssetEditorMode', item 'ReferencePose', Toolbars do not support: EMultiBlockType::MenuEntry
+[2024.01.24-22.19.56:785][751]LogToolMenus: Warning: Toolbar 'AssetEditor.PhysicsAssetEditor.ToolBar.PhysicsAssetEditorMode', item 'ReferencePose', Toolbars do not support: EMultiBlockType::MenuEntry
+[2024.01.24-22.19.56:819][751]LogToolMenus: Warning: Toolbar 'AssetEditor.PhysicsAssetEditor.ToolBar.PhysicsAssetEditorMode', item 'ReferencePose', Toolbars do not support: EMultiBlockType::MenuEntry
+[2024.01.24-22.19.56:911][751]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2024.01.24-22.30.02:018][814]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Razer Seiren X), InstanceID=1
+[2024.01.24-22.30.02:035][815]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25344
+[2024.01.24-22.30.02:085][817]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f840402f-4be8-44f2-b2c3-4490c9eee66f}, Name=Speakers (Razer Seiren X)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=42.29
+[2024.01.24-22.30.02:085][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.24-22.30.02:087][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.24-22.30.26:502][ 16]Cmd: SELECT NONE
+[2024.01.24-22.30.28:245][ 17]Cmd: SELECT NONE
+[2024.01.24-22.30.28:826][ 17]Cmd: SELECT NONE
+[2024.01.24-22.30.28:879][ 17]LogViewport: Scene viewport resized to 1341x561, mode Windowed.
+[2024.01.24-22.30.29:876][ 17]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G27CQ4 (NVIDIA High Definition Audio), InstanceID=1
+[2024.01.24-22.30.31:442][ 17]LogViewport: Scene viewport resized to 1792x777, mode Windowed.
+[2024.01.24-22.30.31:579][ 17]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25344
+[2024.01.24-22.30.31:911][ 19]LogViewport: Scene viewport resized to 1792x753, mode Windowed.
+[2024.01.24-22.30.32:118][ 19]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f382485c-0e9e-48bb-8116-28a03d88f165}, Name=MSI G27CQ4 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=61.97
+[2024.01.24-22.30.32:118][ 19]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.24-22.30.32:121][ 19]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.24-22.40.19:941][783]LogDerivedDataCache: C:/Users/Joost/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:31.288 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16381 files in 19035 folders with total size 2672 MiB.
+[2024.01.24-22.41.29:850][993]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Razer Seiren X), InstanceID=1
+[2024.01.24-22.41.30:093][993]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25344
+[2024.01.24-22.41.30:428][994]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f840402f-4be8-44f2-b2c3-4490c9eee66f}, Name=Speakers (Razer Seiren X)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=21.39
+[2024.01.24-22.41.30:428][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.24-22.41.30:430][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.24-22.45.27:850][699]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G27CQ4 (NVIDIA High Definition Audio), InstanceID=1
+[2024.01.24-22.45.29:339][699]LogViewport: Scene viewport resized to 1792x777, mode Windowed.
+[2024.01.24-22.45.29:598][699]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25344
+[2024.01.24-22.45.29:947][701]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f382485c-0e9e-48bb-8116-28a03d88f165}, Name=MSI G27CQ4 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=58.71
+[2024.01.24-22.45.29:947][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.24-22.45.29:951][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.24-22.45.30:023][702]LogViewport: Scene viewport resized to 1792x753, mode Windowed.
+[2024.01.24-22.46.06:148][ 72]LogToolMenus: Warning: Toolbar 'AssetEditor.PhysicsAssetEditor.ToolBar.PhysicsAssetEditorMode', item 'ReferencePose', Toolbars do not support: EMultiBlockType::MenuEntry
+[2024.01.24-22.46.06:195][ 72]LogViewport: Scene viewport resized to 1792x1260, mode Windowed.
+[2024.01.24-22.46.07:750][152]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Models/BOBOBOOB/physics/finale_anim.finale_anim
+[2024.01.24-22.46.07:852][152]LogToolMenus: Warning: Toolbar 'AssetEditor.PhysicsAssetEditor.ToolBar.PhysicsAssetEditorMode', item 'ReferencePose', Toolbars do not support: EMultiBlockType::MenuEntry
+[2024.01.24-22.46.07:904][152]LogViewport: Scene viewport resized to 1792x753, mode Windowed.
+[2024.01.24-22.46.30:601][357]Cmd: TRANSACTION UNDO
+[2024.01.24-22.46.30:601][357]LogEditorTransaction: Undo Move Keys or Sections
+[2024.01.24-22.46.31:656][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.31:659][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.31:660][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.31:665][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.31:667][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.31:699][357]Cmd: TRANSACTION UNDO
+[2024.01.24-22.46.31:699][357]LogEditorTransaction: Undo Select Actors/Components
+[2024.01.24-22.46.32:710][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.32:712][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.32:712][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.32:714][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.32:715][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.32:736][357]Cmd: TRANSACTION UNDO
+[2024.01.24-22.46.32:736][357]LogEditorTransaction: Undo Select None
+[2024.01.24-22.46.33:963][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.33:965][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.33:966][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.33:967][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.33:968][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.33:982][357]Cmd: TRANSACTION UNDO
+[2024.01.24-22.46.33:982][357]LogEditorTransaction: Undo Move Keys or Sections
+[2024.01.24-22.46.35:063][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.35:065][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.35:066][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.35:067][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.35:067][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.35:081][357]Cmd: TRANSACTION UNDO
+[2024.01.24-22.46.35:081][357]LogEditorTransaction: Undo Select Actors/Components
+[2024.01.24-22.46.36:132][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.36:134][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.36:135][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.36:136][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.36:136][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.36:150][357]Cmd: TRANSACTION UNDO
+[2024.01.24-22.46.36:150][357]LogEditorTransaction: Undo Set Playback Range
+[2024.01.24-22.46.37:081][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.37:083][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.37:083][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.37:084][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.37:085][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.37:099][357]Cmd: TRANSACTION UNDO
+[2024.01.24-22.46.37:099][357]LogEditorTransaction: Undo Select None
+[2024.01.24-22.46.38:074][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.38:077][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.38:077][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.38:078][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.38:079][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.38:095][357]Cmd: TRANSACTION UNDO
+[2024.01.24-22.46.38:095][357]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.24-22.46.39:026][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.39:029][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.39:029][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.39:030][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.39:031][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.39:045][357]Cmd: TRANSACTION UNDO
+[2024.01.24-22.46.39:053][357]LogEditorTransaction: Undo Select None
+[2024.01.24-22.46.40:195][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.40:198][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.40:199][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.40:200][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.40:201][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.46.47:006][367]LogSlate: Window 'Message Log' being destroyed
+[2024.01.24-22.46.47:014][367]LogSlate: Window 'Message Log' being destroyed
+[2024.01.24-22.46.47:154][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.01.24-22.46.48:441][368]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto9
+[2024.01.24-22.46.48:442][368]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Tentoonstelling_Scene_Auto90C0DEFA14450EA1F4FA69699230B7111.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto9.umap'
+[2024.01.24-22.46.48:450][368]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto9.umap is in the /Temp path, will not scan.
+[2024.01.24-22.46.48:451][368]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene' took 1.333
+[2024.01.24-22.46.48:451][368]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.333
+[2024.01.24-22.46.48:452][368]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Spline3/DandelionWithCamera] ([2] browsable assets)...
+[2024.01.24-22.46.48:452][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Spline3/DandelionWithCamera]
+[2024.01.24-22.46.48:472][368]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Spline3/DandelionWithCamera_Auto9
+[2024.01.24-22.46.48:473][368]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/DandelionWithCamera_Auto92626BC0E4A136AB11DA841BB22026508.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Blueprints/Spline3/DandelionWithCamera_Auto9.uasset'
+[2024.01.24-22.46.48:476][368]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Bo_Models/MESH/seedgrowing_Auto9
+[2024.01.24-22.46.48:476][368]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/seedgrowing_Auto92263BC354A74B22A2F27DBAD2D60B39C.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/Bo_Models/MESH/seedgrowing_Auto9.uasset'
+[2024.01.24-22.46.48:478][368]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/BOBOBOOB/physics/finale_anim] ([1] browsable assets)...
+[2024.01.24-22.46.48:478][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/finale_anim]
+[2024.01.24-22.46.48:489][368]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto9
+[2024.01.24-22.46.48:489][368]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/finale_anim_Auto90F51A91446F61CF593FBEB90B920965A.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto9.uasset'
+[2024.01.24-22.46.48:491][368]LogFileHelpers: Auto-saving content packages took 0.039
+[2024.01.24-22.47.02:794][ 90]Cmd: TRANSACTION UNDO
+[2024.01.24-22.47.02:794][ 90]LogEditorTransaction: Undo Move Keys or Sections
+[2024.01.24-22.47.03:708][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.03:710][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.03:710][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.03:711][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.03:712][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.04:418][111]Cmd: TRANSACTION UNDO
+[2024.01.24-22.47.04:418][111]LogEditorTransaction: Undo Select Actors/Components
+[2024.01.24-22.47.05:302][111]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.05:303][111]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.05:303][111]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.05:305][111]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.05:305][111]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.06:082][141]Cmd: TRANSACTION UNDO
+[2024.01.24-22.47.06:082][141]LogEditorTransaction: Undo Select None
+[2024.01.24-22.47.07:038][141]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.07:040][141]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.07:040][141]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.07:041][141]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.07:042][141]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.07:683][159]Cmd: TRANSACTION UNDO
+[2024.01.24-22.47.07:683][159]LogEditorTransaction: Undo Move Keys or Sections
+[2024.01.24-22.47.08:582][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.08:583][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.08:584][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.08:585][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.47.08:586][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.50.05:010][979]Cmd: TRANSACTION UNDO
+[2024.01.24-22.50.05:010][979]LogEditorTransaction: Undo Move Elements
+[2024.01.24-22.50.06:113][979]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.50.06:121][979]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.50.06:125][979]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.50.06:129][979]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.50.06:163][979]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-22.56.49:041][173]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2024.01.24-22.56.55:618][173]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto0
+[2024.01.24-22.56.55:619][173]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Tentoonstelling_Scene_Auto0A93F04F84EF6DC5A7F8F4EA499154BD8.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto0.umap'
+[2024.01.24-22.56.55:627][173]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto0.umap is in the /Temp path, will not scan.
+[2024.01.24-22.56.55:628][173]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene' took 6.649
+[2024.01.24-22.56.55:628][173]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 6.649
+[2024.01.24-22.56.55:629][173]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Spline3/DandelionWithCamera] ([2] browsable assets)...
+[2024.01.24-22.56.55:629][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Spline3/DandelionWithCamera]
+[2024.01.24-22.56.55:652][173]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Spline3/DandelionWithCamera_Auto0
+[2024.01.24-22.56.55:652][173]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/DandelionWithCamera_Auto0DCEDBE394AA31EF7E5A351860A7265B0.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Blueprints/Spline3/DandelionWithCamera_Auto0.uasset'
+[2024.01.24-22.56.55:654][173]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Bo_Models/MESH/seedgrowing_Auto0
+[2024.01.24-22.56.55:655][173]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/seedgrowing_Auto06A74E94C40BB88BF0E25A6B0BD4F5EE9.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/Bo_Models/MESH/seedgrowing_Auto0.uasset'
+[2024.01.24-22.56.55:656][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/BOBOBOOB/physics/finale_anim] ([1] browsable assets)...
+[2024.01.24-22.56.55:656][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/finale_anim]
+[2024.01.24-22.56.55:668][173]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto0
+[2024.01.24-22.56.55:668][173]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/finale_anim_Auto044475D87412B37CBACA7B49EE428AF65.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto0.uasset'
+[2024.01.24-22.56.55:669][173]LogFileHelpers: Auto-saving content packages took 0.041
+[2024.01.24-23.01.43:416][ 38]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Razer Seiren X), InstanceID=1
+[2024.01.24-23.01.43:703][ 38]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25344
+[2024.01.24-23.01.44:038][ 39]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f840402f-4be8-44f2-b2c3-4490c9eee66f}, Name=Speakers (Razer Seiren X)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.97
+[2024.01.24-23.01.44:038][ 39]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.24-23.01.44:040][ 39]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.24-23.08.08:817][190]LogViewport: Scene viewport resized to 1341x561, mode Windowed.
+[2024.01.24-23.08.09:722][190]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G27CQ4 (NVIDIA High Definition Audio), InstanceID=1
+[2024.01.24-23.08.11:325][190]LogViewport: Scene viewport resized to 1792x777, mode Windowed.
+[2024.01.24-23.08.11:488][190]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25344
+[2024.01.24-23.08.11:841][192]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f382485c-0e9e-48bb-8116-28a03d88f165}, Name=MSI G27CQ4 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=68.16
+[2024.01.24-23.08.11:842][192]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.24-23.08.11:844][192]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.24-23.08.11:938][193]LogViewport: Scene viewport resized to 1792x753, mode Windowed.
+[2024.01.24-23.08.44:058][223]LogViewport: Scene viewport resized to 1525x1226, mode Windowed.
+[2024.01.24-23.10.39:070][968]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2024.01.24-23.10.40:453][968]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto1
+[2024.01.24-23.10.40:454][968]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Tentoonstelling_Scene_Auto1954B479F4E26C85FC59A8DA1B72F49E2.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto1.umap'
+[2024.01.24-23.10.40:458][968]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto1.umap is in the /Temp path, will not scan.
+[2024.01.24-23.10.40:460][968]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene' took 1.424
+[2024.01.24-23.10.40:460][968]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.424
+[2024.01.24-23.10.40:460][968]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Spline3/DandelionWithCamera] ([2] browsable assets)...
+[2024.01.24-23.10.40:739][968]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Spline3/DandelionWithCamera.DandelionWithCamera]
+[2024.01.24-23.10.40:739][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Spline3/DandelionWithCamera]
+[2024.01.24-23.10.40:763][968]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Spline3/DandelionWithCamera_Auto1
+[2024.01.24-23.10.40:764][968]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/DandelionWithCamera_Auto1834D37D543A65E9786DDA0BE544ABD17.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Blueprints/Spline3/DandelionWithCamera_Auto1.uasset'
+[2024.01.24-23.10.40:766][968]LogFileHelpers: Auto-saving content packages took 0.306
+[2024.01.24-23.17.32:365][508]Cmd: TRANSACTION UNDO
+[2024.01.24-23.17.32:365][508]LogEditorTransaction: Undo Rotate Elements
+[2024.01.24-23.17.33:406][508]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.17.33:407][508]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.17.33:408][508]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.17.33:409][508]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.17.33:410][508]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.18.30:242][999]Cmd: TRANSACTION UNDO
+[2024.01.24-23.18.30:242][999]LogEditorTransaction: Undo Create New Binding
+[2024.01.24-23.18.31:284][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.18.31:286][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.18.31:286][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.18.31:288][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.18.31:288][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.18.31:311][999]Cmd: TRANSACTION UNDO
+[2024.01.24-23.18.31:311][999]LogEditorTransaction: Undo Add Component
+[2024.01.24-23.18.32:411][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.18.32:413][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.18.32:413][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.18.32:415][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.18.32:415][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.18.32:429][999]Cmd: TRANSACTION UNDO
+[2024.01.24-23.18.32:429][999]LogEditorTransaction: Undo Possess Object in Sequencer
+[2024.01.24-23.18.33:543][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.18.33:545][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.18.33:546][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.18.33:547][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.18.33:547][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.19.08:186][443]LogViewport: Scene viewport resized to 1525x882, mode Windowed.
+[2024.01.24-23.19.31:349][888]LogToolMenus: Warning: Toolbar 'AssetEditor.PhysicsAssetEditor.ToolBar.PhysicsAssetEditorMode', item 'ReferencePose', Toolbars do not support: EMultiBlockType::MenuEntry
+[2024.01.24-23.19.44:654][707]LogToolMenus: Warning: Toolbar 'AssetEditor.PhysicsAssetEditor.ToolBar.PhysicsAssetEditorMode', item 'ReferencePose', Toolbars do not support: EMultiBlockType::MenuEntry
+[2024.01.24-23.19.47:534][924]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed5_Anim.b_KANKER_seed5_Anim
+[2024.01.24-23.19.47:545][924]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed5 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.b_KANKER_seed5_Anim_4
+[2024.01.24-23.19.50:904][ 73]Cmd: TRANSACTION UNDO
+[2024.01.24-23.19.50:904][ 73]LogEditorTransaction: Undo Drop Assets
+[2024.01.24-23.19.51:825][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.19.51:827][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.19.51:827][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.19.51:829][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.19.51:831][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.19.53:315][118]Cmd: TRANSACTION UNDO
+[2024.01.24-23.19.53:315][118]LogEditorTransaction: Undo Drop Actors
+[2024.01.24-23.19.54:264][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.19.54:266][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.19.54:266][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.19.54:267][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.19.54:268][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.20.38:575][444]LogViewport: Scene viewport resized to 1789x753, mode Windowed.
+[2024.01.24-23.20.38:603][445]LogViewport: Scene viewport resized to 1781x753, mode Windowed.
+[2024.01.24-23.20.38:647][446]LogViewport: Scene viewport resized to 1740x753, mode Windowed.
+[2024.01.24-23.20.38:687][447]LogViewport: Scene viewport resized to 1695x753, mode Windowed.
+[2024.01.24-23.20.38:725][448]LogViewport: Scene viewport resized to 1664x753, mode Windowed.
+[2024.01.24-23.20.38:771][449]LogViewport: Scene viewport resized to 1630x753, mode Windowed.
+[2024.01.24-23.20.38:811][450]LogViewport: Scene viewport resized to 1606x753, mode Windowed.
+[2024.01.24-23.20.38:849][451]LogViewport: Scene viewport resized to 1592x753, mode Windowed.
+[2024.01.24-23.20.38:889][452]LogViewport: Scene viewport resized to 1578x753, mode Windowed.
+[2024.01.24-23.20.38:927][453]LogViewport: Scene viewport resized to 1572x753, mode Windowed.
+[2024.01.24-23.20.38:965][454]LogViewport: Scene viewport resized to 1566x753, mode Windowed.
+[2024.01.24-23.20.39:005][455]LogViewport: Scene viewport resized to 1559x753, mode Windowed.
+[2024.01.24-23.20.39:044][456]LogViewport: Scene viewport resized to 1550x753, mode Windowed.
+[2024.01.24-23.20.39:082][457]LogViewport: Scene viewport resized to 1543x753, mode Windowed.
+[2024.01.24-23.20.39:120][458]LogViewport: Scene viewport resized to 1534x753, mode Windowed.
+[2024.01.24-23.20.39:157][459]LogViewport: Scene viewport resized to 1532x753, mode Windowed.
+[2024.01.24-23.20.39:196][460]LogViewport: Scene viewport resized to 1527x753, mode Windowed.
+[2024.01.24-23.20.39:279][465]LogViewport: Scene viewport resized to 1525x753, mode Windowed.
+[2024.01.24-23.20.39:372][472]LogViewport: Scene viewport resized to 1524x753, mode Windowed.
+[2024.01.24-23.20.39:397][473]LogViewport: Scene viewport resized to 1523x753, mode Windowed.
+[2024.01.24-23.20.39:439][474]LogViewport: Scene viewport resized to 1521x753, mode Windowed.
+[2024.01.24-23.20.39:496][477]LogViewport: Scene viewport resized to 1520x753, mode Windowed.
+[2024.01.24-23.20.39:534][478]LogViewport: Scene viewport resized to 1519x753, mode Windowed.
+[2024.01.24-23.20.39:897][516]LogViewport: Scene viewport resized to 1520x753, mode Windowed.
+[2024.01.24-23.20.40:006][518]LogViewport: Scene viewport resized to 1521x753, mode Windowed.
+[2024.01.24-23.20.40:149][519]LogViewport: Scene viewport resized to 1526x753, mode Windowed.
+[2024.01.24-23.20.40:188][520]LogViewport: Scene viewport resized to 1529x753, mode Windowed.
+[2024.01.24-23.20.40:226][521]LogViewport: Scene viewport resized to 1532x753, mode Windowed.
+[2024.01.24-23.20.40:265][522]LogViewport: Scene viewport resized to 1535x753, mode Windowed.
+[2024.01.24-23.20.40:310][524]LogViewport: Scene viewport resized to 1537x753, mode Windowed.
+[2024.01.24-23.20.40:366][525]LogViewport: Scene viewport resized to 1538x753, mode Windowed.
+[2024.01.24-23.20.40:727][561]LogViewport: Scene viewport resized to 1537x753, mode Windowed.
+[2024.01.24-23.20.40:752][562]LogViewport: Scene viewport resized to 1535x753, mode Windowed.
+[2024.01.24-23.20.40:847][563]LogViewport: Scene viewport resized to 1534x753, mode Windowed.
+[2024.01.24-23.20.40:887][564]LogViewport: Scene viewport resized to 1533x753, mode Windowed.
+[2024.01.24-23.20.43:955][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.01.24-23.20.45:400][720]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto2
+[2024.01.24-23.20.45:401][720]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Tentoonstelling_Scene_Auto247F2EE2342A1784F04EAF1A90A307E5B.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto2.umap'
+[2024.01.24-23.20.45:411][720]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto2.umap is in the /Temp path, will not scan.
+[2024.01.24-23.20.45:412][720]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene' took 1.487
+[2024.01.24-23.20.45:412][720]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.487
+[2024.01.24-23.20.45:413][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Spline3/DandelionWithCamera] ([2] browsable assets)...
+[2024.01.24-23.20.45:413][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Spline3/DandelionWithCamera]
+[2024.01.24-23.20.45:435][720]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Spline3/DandelionWithCamera_Auto2
+[2024.01.24-23.20.45:435][720]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/DandelionWithCamera_Auto2A4E8A5B040BDAF72EC5C208FF3AFF9C4.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Blueprints/Spline3/DandelionWithCamera_Auto2.uasset'
+[2024.01.24-23.20.45:438][720]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Bo_Models/MESH/seedgrowing_Auto2
+[2024.01.24-23.20.45:439][720]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/seedgrowing_Auto232731CF14AFD5B4C3FE2A19F36E2CE0F.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/Bo_Models/MESH/seedgrowing_Auto2.uasset'
+[2024.01.24-23.20.45:440][720]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/BOBOBOOB/physics/finale_anim] ([1] browsable assets)...
+[2024.01.24-23.20.45:440][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/finale_anim]
+[2024.01.24-23.20.45:450][720]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto2
+[2024.01.24-23.20.45:450][720]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/finale_anim_Auto231CCF9B34F25039FCF318AA4CA518893.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto2.uasset'
+[2024.01.24-23.20.45:451][720]LogFileHelpers: Auto-saving content packages took 0.039
+[2024.01.24-23.20.57:827][365]Cmd: TRANSACTION UNDO
+[2024.01.24-23.20.57:827][365]LogEditorTransaction: Undo Select Actors/Components
+[2024.01.24-23.20.58:763][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.20.58:764][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.20.58:765][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.20.58:766][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.20.58:767][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.21.00:450][404]Cmd: TRANSACTION UNDO
+[2024.01.24-23.21.00:450][404]LogEditorTransaction: Undo Drop Actors
+[2024.01.24-23.21.01:359][404]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.21.01:360][404]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.21.01:361][404]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.21.01:362][404]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.21.01:362][404]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.21.12:726][ 43]LogViewport: Scene viewport resized to 1533x754, mode Windowed.
+[2024.01.24-23.21.12:755][ 44]LogViewport: Scene viewport resized to 1533x779, mode Windowed.
+[2024.01.24-23.21.12:807][ 45]LogViewport: Scene viewport resized to 1533x837, mode Windowed.
+[2024.01.24-23.21.12:848][ 46]LogViewport: Scene viewport resized to 1533x882, mode Windowed.
+[2024.01.24-23.21.12:893][ 47]LogViewport: Scene viewport resized to 1533x929, mode Windowed.
+[2024.01.24-23.21.12:937][ 48]LogViewport: Scene viewport resized to 1533x965, mode Windowed.
+[2024.01.24-23.21.12:978][ 49]LogViewport: Scene viewport resized to 1533x1019, mode Windowed.
+[2024.01.24-23.21.13:027][ 50]LogViewport: Scene viewport resized to 1533x1046, mode Windowed.
+[2024.01.24-23.21.13:066][ 51]LogViewport: Scene viewport resized to 1533x1060, mode Windowed.
+[2024.01.24-23.21.13:108][ 52]LogViewport: Scene viewport resized to 1533x1064, mode Windowed.
+[2024.01.24-23.21.13:271][ 67]LogViewport: Scene viewport resized to 1533x1065, mode Windowed.
+[2024.01.24-23.21.13:301][ 68]LogViewport: Scene viewport resized to 1533x1069, mode Windowed.
+[2024.01.24-23.21.13:346][ 69]LogViewport: Scene viewport resized to 1533x1083, mode Windowed.
+[2024.01.24-23.21.13:389][ 70]LogViewport: Scene viewport resized to 1533x1089, mode Windowed.
+[2024.01.24-23.21.13:453][ 74]LogViewport: Scene viewport resized to 1533x1088, mode Windowed.
+[2024.01.24-23.21.56:653][480]Cmd: EDIT COPY
+[2024.01.24-23.22.17:402][551]Cmd: TRANSACTION UNDO
+[2024.01.24-23.22.17:402][551]LogEditorTransaction: Undo Edit PlayRate
+[2024.01.24-23.22.18:316][551]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.22.18:318][551]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.22.18:318][551]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.22.18:320][551]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.22.18:321][551]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.22.18:707][558]Cmd: TRANSACTION UNDO
+[2024.01.24-23.22.18:707][558]LogEditorTransaction: Undo Drop Actors
+[2024.01.24-23.22.19:608][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.22.19:609][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.22.19:610][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.22.19:611][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.22.19:612][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.22.22:571][691]Cmd: TRANSACTION REDO
+[2024.01.24-23.22.22:571][691]LogEditorTransaction: Redo Drop Actors
+[2024.01.24-23.22.23:544][691]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.22.23:545][691]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.22.23:545][691]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.22.23:546][691]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.22.23:546][691]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.23.44:994][897]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2024.01.24-23.23.45:045][897]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Models/BOBOBOOB/physics/b_KANKER_seed5_Skeleton_Sequence.b_KANKER_seed5_Skeleton_Sequence
+[2024.01.24-23.23.45:048][897]LogAnimationCompression: Display: Storing compressed animation data for /Game/Models/BOBOBOOB/physics/b_KANKER_seed5_Skeleton_Sequence.b_KANKER_seed5_Skeleton_Sequence, at AnimationSequence/36f1c084fa7f1ce24d18f0807dbb81fdda46df48
+[2024.01.24-23.23.45:221][897]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.23.45:222][897]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.23.45:296][897]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.23.45:296][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.23.54:421][280]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed6_Anim.b_KANKER_seed6_Anim
+[2024.01.24-23.23.54:422][280]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.23.54:422][280]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.23.54:430][280]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_113:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.23.54:711][280]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.23.54:711][280]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.23.54:794][280]LogToolMenus: Warning: Toolbar 'AssetEditor.PhysicsAssetEditor.ToolBar.PhysicsAssetEditorMode', item 'ReferencePose', Toolbars do not support: EMultiBlockType::MenuEntry
+[2024.01.24-23.23.54:912][280]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.23.54:912][280]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.23.54:956][280]LogViewport: Scene viewport resized to 1525x882, mode Windowed.
+[2024.01.24-23.23.54:996][280]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.24-23.24.07:505][753]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2024.01.24-23.24.07:548][753]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Models/BOBOBOOB/physics/b_KANKER_seed6_Skeleton_Sequence.b_KANKER_seed6_Skeleton_Sequence
+[2024.01.24-23.24.07:549][753]LogAnimationCompression: Display: Storing compressed animation data for /Game/Models/BOBOBOOB/physics/b_KANKER_seed6_Skeleton_Sequence.b_KANKER_seed6_Skeleton_Sequence, at AnimationSequence/b64fcea8c4ea9c8655c72c3ab7ead894ea5d6881
+[2024.01.24-23.24.07:634][753]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.24.07:634][753]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.24.07:690][753]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.24.07:690][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.24.16:386][ 70]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed7_Anim.b_KANKER_seed7_Anim
+[2024.01.24-23.24.16:386][ 70]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.24.16:387][ 70]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.24.16:397][ 70]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_117:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.24.16:662][ 70]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.24.16:662][ 70]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.24.16:749][ 70]LogToolMenus: Warning: Toolbar 'AssetEditor.PhysicsAssetEditor.ToolBar.PhysicsAssetEditorMode', item 'ReferencePose', Toolbars do not support: EMultiBlockType::MenuEntry
+[2024.01.24-23.24.16:871][ 70]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.24.16:871][ 70]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.24.16:931][ 70]LogViewport: Scene viewport resized to 1525x882, mode Windowed.
+[2024.01.24-23.24.16:971][ 70]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.24-23.24.24:851][335]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2024.01.24-23.24.24:895][335]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Models/BOBOBOOB/physics/b_KANKER_seed7_Skeleton_Sequence.b_KANKER_seed7_Skeleton_Sequence
+[2024.01.24-23.24.24:896][335]LogAnimationCompression: Display: Storing compressed animation data for /Game/Models/BOBOBOOB/physics/b_KANKER_seed7_Skeleton_Sequence.b_KANKER_seed7_Skeleton_Sequence, at AnimationSequence/ead7c4528b85e0e409691948ff7f8b4e8af9cd06
+[2024.01.24-23.24.24:982][335]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.24.24:982][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.24.25:039][335]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.24.25:039][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.24.29:390][671]LogViewport: Scene viewport resized to 1533x1084, mode Windowed.
+[2024.01.24-23.24.29:516][672]LogViewport: Scene viewport resized to 1533x1070, mode Windowed.
+[2024.01.24-23.24.29:557][673]LogViewport: Scene viewport resized to 1533x899, mode Windowed.
+[2024.01.24-23.24.29:602][674]LogViewport: Scene viewport resized to 1533x850, mode Windowed.
+[2024.01.24-23.24.29:652][675]LogViewport: Scene viewport resized to 1533x784, mode Windowed.
+[2024.01.24-23.24.29:710][676]LogViewport: Scene viewport resized to 1533x741, mode Windowed.
+[2024.01.24-23.24.29:758][677]LogViewport: Scene viewport resized to 1533x696, mode Windowed.
+[2024.01.24-23.24.29:801][678]LogViewport: Scene viewport resized to 1533x661, mode Windowed.
+[2024.01.24-23.24.29:842][679]LogViewport: Scene viewport resized to 1533x643, mode Windowed.
+[2024.01.24-23.24.29:902][680]LogViewport: Scene viewport resized to 1533x614, mode Windowed.
+[2024.01.24-23.24.29:942][681]LogViewport: Scene viewport resized to 1533x605, mode Windowed.
+[2024.01.24-23.24.29:986][682]LogViewport: Scene viewport resized to 1533x593, mode Windowed.
+[2024.01.24-23.24.30:035][683]LogViewport: Scene viewport resized to 1533x591, mode Windowed.
+[2024.01.24-23.24.30:205][698]LogViewport: Scene viewport resized to 1533x594, mode Windowed.
+[2024.01.24-23.24.30:232][699]LogViewport: Scene viewport resized to 1533x595, mode Windowed.
+[2024.01.24-23.24.30:278][700]LogViewport: Scene viewport resized to 1533x597, mode Windowed.
+[2024.01.24-23.24.41:474][344]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Models/BOBOBOOB/physics/b_KANKER_seed7_Skeleton_Sequence.b_KANKER_seed7_Skeleton_Sequence
+[2024.01.24-23.24.41:477][344]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed7 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.b_KANKER_seed7_Skeleton_Sequence_5
+[2024.01.24-23.24.41:517][344]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Models/BOBOBOOB/physics/b_KANKER_seed5_Skeleton_Sequence.b_KANKER_seed5_Skeleton_Sequence
+[2024.01.24-23.24.41:517][344]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed5 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.b_KANKER_seed5_Skeleton_Sequence_6
+[2024.01.24-23.24.41:559][344]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Models/BOBOBOOB/physics/b_KANKER_seed6_Skeleton_Sequence.b_KANKER_seed6_Skeleton_Sequence
+[2024.01.24-23.24.41:559][344]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed6 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.b_KANKER_seed6_Skeleton_Sequence_7
+[2024.01.24-23.25.24:623][609]Cmd: TRANSACTION UNDO
+[2024.01.24-23.25.24:623][609]LogEditorTransaction: Undo Edit Update Animation in Editor
+[2024.01.24-23.25.25:921][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.25.25:922][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.25.25:923][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.25.25:924][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.25.25:926][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.25.25:939][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_113:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.25.25:939][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_117:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.25.30:233][818]Cmd: TRANSACTION UNDO
+[2024.01.24-23.25.30:233][818]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.01.24-23.25.31:543][818]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.25.31:544][818]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.25.31:545][818]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.25.31:546][818]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.25.31:546][818]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.25.31:559][818]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_113:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.25.31:559][818]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_117:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.25.54:050][742]LogViewport: Scene viewport resized to 1533x598, mode Windowed.
+[2024.01.24-23.25.54:073][743]LogViewport: Scene viewport resized to 1533x599, mode Windowed.
+[2024.01.24-23.25.54:111][744]LogViewport: Scene viewport resized to 1533x601, mode Windowed.
+[2024.01.24-23.25.54:141][745]LogViewport: Scene viewport resized to 1533x603, mode Windowed.
+[2024.01.24-23.25.54:172][746]LogViewport: Scene viewport resized to 1533x607, mode Windowed.
+[2024.01.24-23.25.54:202][747]LogViewport: Scene viewport resized to 1533x636, mode Windowed.
+[2024.01.24-23.25.54:233][748]LogViewport: Scene viewport resized to 1533x663, mode Windowed.
+[2024.01.24-23.25.54:262][749]LogViewport: Scene viewport resized to 1533x702, mode Windowed.
+[2024.01.24-23.25.54:292][750]LogViewport: Scene viewport resized to 1533x729, mode Windowed.
+[2024.01.24-23.25.54:323][751]LogViewport: Scene viewport resized to 1533x750, mode Windowed.
+[2024.01.24-23.25.54:353][752]LogViewport: Scene viewport resized to 1533x774, mode Windowed.
+[2024.01.24-23.25.54:383][753]LogViewport: Scene viewport resized to 1533x785, mode Windowed.
+[2024.01.24-23.25.54:413][754]LogViewport: Scene viewport resized to 1533x794, mode Windowed.
+[2024.01.24-23.25.54:442][755]LogViewport: Scene viewport resized to 1533x800, mode Windowed.
+[2024.01.24-23.25.54:475][756]LogViewport: Scene viewport resized to 1533x804, mode Windowed.
+[2024.01.24-23.25.54:504][757]LogViewport: Scene viewport resized to 1533x813, mode Windowed.
+[2024.01.24-23.25.54:534][758]LogViewport: Scene viewport resized to 1533x827, mode Windowed.
+[2024.01.24-23.25.54:573][759]LogViewport: Scene viewport resized to 1533x843, mode Windowed.
+[2024.01.24-23.25.54:606][760]LogViewport: Scene viewport resized to 1533x853, mode Windowed.
+[2024.01.24-23.25.54:636][761]LogViewport: Scene viewport resized to 1533x857, mode Windowed.
+[2024.01.24-23.25.54:665][762]LogViewport: Scene viewport resized to 1533x864, mode Windowed.
+[2024.01.24-23.25.54:698][763]LogViewport: Scene viewport resized to 1533x867, mode Windowed.
+[2024.01.24-23.25.54:792][772]LogViewport: Scene viewport resized to 1533x869, mode Windowed.
+[2024.01.24-23.25.59:610][102]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Models/BOBOBOOB/physics/NewAnimBlueprint.NewAnimBlueprint
+[2024.01.24-23.25.59:611][102]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.25.59:611][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.25.59:617][102]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.25.59:617][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.25.59:623][102]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_122:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.25.59:947][102]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.25.59:948][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.26.00:021][102]LogToolMenus: Warning: Toolbar 'AssetEditor.PhysicsAssetEditor.ToolBar.PhysicsAssetEditorMode', item 'ReferencePose', Toolbars do not support: EMultiBlockType::MenuEntry
+[2024.01.24-23.26.00:157][102]LogViewport: Scene viewport resized to 636x591, mode Windowed.
+[2024.01.24-23.26.05:429][337]LogSlate: Window 'NewAnimBlueprint' being destroyed
+[2024.01.24-23.26.05:437][337]LogSlate: Window 'NewAnimBlueprint' being destroyed
+[2024.01.24-23.26.05:451][337]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.05:451][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.05:579][337]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.05:579][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.05:589][337]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.05:589][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.05:678][337]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.05:678][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.05:719][337]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.05:720][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.05:806][337]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.05:806][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.05:840][337]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.05:840][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.05:959][337]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.05:959][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.05:994][337]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.05:994][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.06:090][337]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.06:090][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.06:109][337]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.06:109][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.06:188][337]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.06:188][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.06:263][337]LogWorld: UWorld::CleanupWorld for World_116, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.06:263][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.06:273][337]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.06:273][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.06:330][337]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.06:330][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.06:355][337]LogWorld: UWorld::CleanupWorld for World_120, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.06:355][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.06:365][337]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.06:365][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.06:420][337]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.06:420][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.06:444][337]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.06:444][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.06:464][337]LogWorld: UWorld::CleanupWorld for World_122, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.06:464][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.06:508][337]LogWorld: UWorld::CleanupWorld for World_123, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.26.06:508][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.26.26:157][ 38]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2024.01.24-23.26.26:185][ 38]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2024.01.24-23.26.26:201][ 38]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2024.01.24-23.26.26:226][ 39]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2024.01.24-23.26.30:554][302]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> seed
+[2024.01.24-23.26.30:577][302]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2024.01.24-23.26.30:578][302]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.26.31:711][359]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Models/BOBOBOOB/physics/seeds/seed.seed
+[2024.01.24-23.26.31:711][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.26.31:711][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.26.31:719][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.26.31:719][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.26.31:725][359]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_126:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.26.32:052][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.26.32:053][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.26.32:161][359]LogViewport: Scene viewport resized to 636x591, mode Windowed.
+[2024.01.24-23.30.02:477][150]LogSlate: Window 'Replace References' being destroyed
+[2024.01.24-23.30.02:486][150]LogSlate: Window 'Replace References' being destroyed
+[2024.01.24-23.30.19:874][ 50]LogEditorTransaction: Undo Add Variable
+[2024.01.24-23.30.20:026][ 50]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_126:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.24-23.33.21:772][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.01.24-23.33.23:105][267]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto3
+[2024.01.24-23.33.23:105][267]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Tentoonstelling_Scene_Auto3C11530AE4AD0CE2501E69D87217AC660.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto3.umap'
+[2024.01.24-23.33.23:110][267]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto3.umap is in the /Temp path, will not scan.
+[2024.01.24-23.33.23:111][267]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene' took 1.389
+[2024.01.24-23.33.23:111][267]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.389
+[2024.01.24-23.33.23:111][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Spline3/DandelionWithCamera] ([2] browsable assets)...
+[2024.01.24-23.33.23:111][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Spline3/DandelionWithCamera]
+[2024.01.24-23.33.23:132][267]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Spline3/DandelionWithCamera_Auto3
+[2024.01.24-23.33.23:133][267]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/DandelionWithCamera_Auto33BBA7B3040D2DE828777D6A05E03626A.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Blueprints/Spline3/DandelionWithCamera_Auto3.uasset'
+[2024.01.24-23.33.23:136][267]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Bo_Models/MESH/seedgrowing_Auto3
+[2024.01.24-23.33.23:137][267]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/seedgrowing_Auto3DBBF96374865703A2E50FEA2DC296F27.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/Bo_Models/MESH/seedgrowing_Auto3.uasset'
+[2024.01.24-23.33.23:138][267]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/BOBOBOOB/physics/finale_anim] ([1] browsable assets)...
+[2024.01.24-23.33.23:138][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/finale_anim]
+[2024.01.24-23.33.23:148][267]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto3
+[2024.01.24-23.33.23:148][267]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/finale_anim_Auto3C7AE762740D65001BA5CF68F6C64C7E7.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto3.uasset'
+[2024.01.24-23.33.23:149][267]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Models/BOBOBOOB/physics/seeds/seed] ([2] browsable assets)...
+[2024.01.24-23.33.23:159][267]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Models/BOBOBOOB/physics/seeds/seed.seed]
+[2024.01.24-23.33.23:159][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/seeds/seed]
+[2024.01.24-23.33.23:164][267]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/seeds/seed_Auto3
+[2024.01.24-23.33.23:164][267]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/seed_Auto35DB0BF4C4C0785387A5DF58766567DC9.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/seeds/seed_Auto3.uasset'
+[2024.01.24-23.33.23:166][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/BOBOBOOB/physics/b_KANKER_seed5_Skeleton_Sequence] ([1] browsable assets)...
+[2024.01.24-23.33.23:172][267]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/BOBOBOOB/physics/b_KANKER_seed5_Skeleton_Sequence.b_KANKER_seed5_Skeleton_Sequence]
+[2024.01.24-23.33.23:172][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/b_KANKER_seed5_Skeleton_Sequence]
+[2024.01.24-23.33.23:176][267]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/b_KANKER_seed5_Skeleton_Sequence_Auto3
+[2024.01.24-23.33.23:176][267]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/b_KANKER_seed5_Skeleton_SequenceA6DD3CD74F6F2B5FA761199826845123.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/b_KANKER_seed5_Skeleton_Sequence_Auto3.uasset'
+[2024.01.24-23.33.23:177][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/BOBOBOOB/physics/b_KANKER_seed6_Skeleton_Sequence] ([1] browsable assets)...
+[2024.01.24-23.33.23:184][267]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/BOBOBOOB/physics/b_KANKER_seed6_Skeleton_Sequence.b_KANKER_seed6_Skeleton_Sequence]
+[2024.01.24-23.33.23:184][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/b_KANKER_seed6_Skeleton_Sequence]
+[2024.01.24-23.33.23:187][267]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/b_KANKER_seed6_Skeleton_Sequence_Auto3
+[2024.01.24-23.33.23:187][267]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/b_KANKER_seed6_Skeleton_SequenceE46626FA4CB835D8959B789009444099.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/b_KANKER_seed6_Skeleton_Sequence_Auto3.uasset'
+[2024.01.24-23.33.23:188][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/BOBOBOOB/physics/b_KANKER_seed7_Skeleton_Sequence] ([1] browsable assets)...
+[2024.01.24-23.33.23:194][267]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/BOBOBOOB/physics/b_KANKER_seed7_Skeleton_Sequence.b_KANKER_seed7_Skeleton_Sequence]
+[2024.01.24-23.33.23:194][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/b_KANKER_seed7_Skeleton_Sequence]
+[2024.01.24-23.33.23:197][267]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/b_KANKER_seed7_Skeleton_Sequence_Auto3
+[2024.01.24-23.33.23:197][267]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/b_KANKER_seed7_Skeleton_SequenceE9B302D44C27AEC77955A094A5C9961A.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/b_KANKER_seed7_Skeleton_Sequence_Auto3.uasset'
+[2024.01.24-23.33.23:198][267]LogFileHelpers: Auto-saving content packages took 0.087
+[2024.01.24-23.37.22:764][502]BlueprintLog: New page: Compile seed
+[2024.01.24-23.37.22:823][502]LogUObjectHash: Compacting FUObjectHashTables data took  14.41ms
+[2024.01.24-23.37.22:843][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.37.22:901][502]LogSavePackage: Moving output files for package: /Game/Models/BOBOBOOB/physics/seeds/seed
+[2024.01.24-23.37.22:901][502]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/seedF93251AB40CAFF90B3E663A47D30D036.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Content/Models/BOBOBOOB/physics/seeds/seed.uasset'
+[2024.01.24-23.37.22:923][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2:20 min)
+[2024.01.24-23.37.22:934][502]AssetCheck: New page: Asset Save: seed
+[2024.01.24-23.37.22:934][502]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Models/BOBOBOOB/physics/seeds/seed.seed
+[2024.01.24-23.40.07:670][741]BlueprintLog: New page: Compile seed
+[2024.01.24-23.40.07:724][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.01.24-23.40.07:739][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-23.40.07:783][741]LogSavePackage: Moving output files for package: /Game/Models/BOBOBOOB/physics/seeds/seed
+[2024.01.24-23.40.07:784][741]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/seedD29D053E4C53CC9F5D7B05930B7ACD0A.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Content/Models/BOBOBOOB/physics/seeds/seed.uasset'
+[2024.01.24-23.40.07:794][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 2:20 min)
+[2024.01.24-23.40.07:797][741]AssetCheck: New page: Asset Save: seed
+[2024.01.24-23.40.07:797][741]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Models/BOBOBOOB/physics/seeds/seed.seed
+[2024.01.24-23.40.20:983][393]LogDerivedDataCache: C:/Users/Joost/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:32.330 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16511 files in 19162 folders with total size 2675 MiB.
+[2024.01.24-23.42.09:186][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.01.24-23.42.10:344][520]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-23.42.10:506][520]LogSlate: Window 'seed' being destroyed
+[2024.01.24-23.42.10:558][520]LogWorld: UWorld::CleanupWorld for World_127, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.42.10:558][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.42.10:570][520]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.42.10:570][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.42.10:586][520]LogWorld: UWorld::CleanupWorld for World_125, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.42.10:586][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-23.42.10:610][520]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/BOBOBOOB/physics/seeds/seed.seed
+	Asset Type: AnimBlueprint
+[2024.01.24-23.42.11:782][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.01.24-23.42.11:810][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.24-23.42.11:829][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.24-23.43.16:124][944]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.24-23.43.16:135][944]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.24-23.43.16:154][944]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.24-23.43.16:196][945]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.24-23.43.30:404][678]LogContentBrowser: Attempting asset rename: NewBlueprint -> ACTORSEEDS
+[2024.01.24-23.43.30:414][678]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.24-23.43.36:809][991]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/BOBOBOOB/physics/seeds/ACTORSEEDS.ACTORSEEDS
+[2024.01.24-23.43.36:809][991]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-23.43.36:809][991]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-23.43.37:009][991]LogViewport: Scene viewport resized to 1632x951, mode Windowed.
+[2024.01.24-23.46.53:920][510]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.01.24-23.46.53:920][510]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.01.24-23.47.15:418][627]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.01.24-23.53.32:918][276]LogUObjectHash: Compacting FUObjectHashTables data took   9.97ms
+[2024.01.24-23.53.32:935][276]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene' took 0.049
+[2024.01.24-23.53.32:936][276]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/BOBOBOOB/physics/seeds/ACTORSEEDS] ([2] browsable assets)...
+[2024.01.24-23.53.32:936][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/seeds/ACTORSEEDS]
+[2024.01.24-23.53.32:940][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/seeds/ACTORSEEDS_Auto4
+[2024.01.24-23.53.32:940][276]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/ACTORSEEDS_Auto483B8BD3C496726FF78D357AEC26AC224.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/seeds/ACTORSEEDS_Auto4.uasset'
+[2024.01.24-23.53.32:942][276]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.01.24-23.54.24:645][113]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.01.24-23.54.24:713][113]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.068 s
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: === Handled ensure: ===
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: 
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: Ensure condition failed: !PersistentLayout->PrimaryArea.IsValid()  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Docking\TabManager.cpp] [Line: 944] 
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: 
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: Stack: 
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: [Callstack] 0x00007fff771b40a0 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: [Callstack] 0x00007fff771d1c84 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: [Callstack] 0x00007fff77140ced UnrealEditor-Slate.dll!UnknownFunction []
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: [Callstack] 0x00007fff7cd36870 UnrealEditor-Core.dll!UnknownFunction []
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: [Callstack] 0x00007fff7cd5541b UnrealEditor-Core.dll!UnknownFunction []
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: [Callstack] 0x00007ff6a036cea9 UnrealEditor.exe!UnknownFunction []
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: [Callstack] 0x00007ff6a038d28c UnrealEditor.exe!UnknownFunction []
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: [Callstack] 0x00007ff6a038d37a UnrealEditor.exe!UnknownFunction []
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: [Callstack] 0x00007ff6a0390854 UnrealEditor.exe!UnknownFunction []
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: [Callstack] 0x00007ff6a03a6984 UnrealEditor.exe!UnknownFunction []
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: [Callstack] 0x00007ff6a03a9d7a UnrealEditor.exe!UnknownFunction []
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: [Callstack] 0x00007fffe2597344 KERNEL32.DLL!UnknownFunction []
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: [Callstack] 0x00007fffe2b426b1 ntdll.dll!UnknownFunction []
+[2024.01.24-23.54.24:714][113]LogOutputDevice: Error: 
+[2024.01.24-23.54.24:715][113]LogStats:                SubmitErrorReport -  0.000 s
+[2024.01.24-23.54.26:369][113]LogStats:                    SendNewReport -  1.654 s
+[2024.01.24-23.54.26:369][113]LogStats:             FDebug::EnsureFailed -  1.723 s
+[2024.01.24-23.54.28:104][215]LogSlate: Window 'My Blueprint' being destroyed
+[2024.01.24-23.59.12:679][730]LogSlate: Window 'ACTORSEEDS' being destroyed
+[2024.01.24-23.59.12:692][730]LogWorld: UWorld::CleanupWorld for World_128, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-23.59.12:692][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.00.19:291][ 79]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed5_Anim.b_KANKER_seed5_Anim
+[2024.01.25-00.00.19:295][ 79]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed5 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.b_KANKER_seed5_Anim_8
+[2024.01.25-00.00.19:334][ 79]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed6_Anim.b_KANKER_seed6_Anim
+[2024.01.25-00.00.19:334][ 79]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed6 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.b_KANKER_seed6_Anim_9
+[2024.01.25-00.00.19:379][ 79]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed7_Anim.b_KANKER_seed7_Anim
+[2024.01.25-00.00.19:380][ 79]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed7 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.b_KANKER_seed7_Anim_10
+[2024.01.25-00.00.37:331][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-00.00.37:405][986]LogSavePackage: Moving output files for package: /Game/Models/BOBOBOOB/physics/finale_anim
+[2024.01.25-00.00.37:405][986]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/finale_animB872BBE44026E63EBA0020B973B0A866.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Content/Models/BOBOBOOB/physics/finale_anim.uasset'
+[2024.01.25-00.00.37:421][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 2:20 min)
+[2024.01.25-00.00.37:422][986]AssetCheck: New page: Asset Save: finale_anim
+[2024.01.25-00.00.37:422][986]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Models/BOBOBOOB/physics/finale_anim.finale_anim
+[2024.01.25-00.00.44:979][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-00.00.45:046][363]LogSavePackage: Moving output files for package: /Game/Models/BOBOBOOB/physics/finale_anim
+[2024.01.25-00.00.45:046][363]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/finale_anim83BD13D74DEDE289450A01A1056B4BC3.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Content/Models/BOBOBOOB/physics/finale_anim.uasset'
+[2024.01.25-00.00.45:056][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 2:20 min)
+[2024.01.25-00.00.45:059][363]AssetCheck: New page: Asset Save: finale_anim
+[2024.01.25-00.00.45:059][363]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Models/BOBOBOOB/physics/finale_anim.finale_anim
+[2024.01.25-00.00.48:260][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-00.00.48:327][527]LogSavePackage: Moving output files for package: /Game/Models/BOBOBOOB/physics/finale_anim
+[2024.01.25-00.00.48:328][527]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/finale_anim1721B6244C700A9E7DDC5CADFE0EBD9B.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Content/Models/BOBOBOOB/physics/finale_anim.uasset'
+[2024.01.25-00.00.48:337][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 2:20 min)
+[2024.01.25-00.00.48:339][527]AssetCheck: New page: Asset Save: finale_anim
+[2024.01.25-00.00.48:340][527]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Models/BOBOBOOB/physics/finale_anim.finale_anim
+[2024.01.25-00.00.50:204][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.01.25-00.00.51:110][625]LogSlate: Window 'Save Content' being destroyed
+[2024.01.25-00.00.51:147][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-00.00.51:212][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.25-00.00.51:266][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.25-00.00.52:612][625]LogSavePackage: Moving output files for package: /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene
+[2024.01.25-00.00.52:613][625]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Tentoonstelling_Scene953DA1A54C7B1DEB264E49A1FF233D30.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Content/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.umap'
+[2024.01.25-00.00.52:637][625]LogFileHelpers: Saving map 'Tentoonstelling_Scene' took 1.420
+[2024.01.25-00.00.52:642][625]LogSavePackage: Moving output files for package: /Game/Models/BOBOBOOB/physics/seeds/ACTORSEEDS
+[2024.01.25-00.00.52:642][625]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/ACTORSEEDSFE27C45847DD0FD1B73E8B886F821B08.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Content/Models/BOBOBOOB/physics/seeds/ACTORSEEDS.uasset'
+[2024.01.25-00.00.52:648][625]LogSavePackage: Moving output files for package: /Game/Models/BOBOBOOB/physics/b_KANKER_seed5_Skeleton_Sequence
+[2024.01.25-00.00.52:648][625]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/b_KANKER_seed5_Skeleton_Sequence37BE92E64D3B34FE8FBC358D4617FF95.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Content/Models/BOBOBOOB/physics/b_KANKER_seed5_Skeleton_Sequence.uasset'
+[2024.01.25-00.00.52:652][625]LogSavePackage: Moving output files for package: /Game/Models/BOBOBOOB/physics/b_KANKER_seed6_Skeleton_Sequence
+[2024.01.25-00.00.52:652][625]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/b_KANKER_seed6_Skeleton_Sequence136881784B231AD3524953A545499B7D.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Content/Models/BOBOBOOB/physics/b_KANKER_seed6_Skeleton_Sequence.uasset'
+[2024.01.25-00.00.52:656][625]LogSavePackage: Moving output files for package: /Game/Models/BOBOBOOB/physics/b_KANKER_seed7_Skeleton_Sequence
+[2024.01.25-00.00.52:657][625]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/b_KANKER_seed7_Skeleton_SequenceD7EFF7A945A379D273D09EA8E1E7A6B2.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Content/Models/BOBOBOOB/physics/b_KANKER_seed7_Skeleton_Sequence.uasset'
+[2024.01.25-00.00.52:680][625]LogSavePackage: Moving output files for package: /Game/Blueprints/Spline3/DandelionWithCamera
+[2024.01.25-00.00.52:680][625]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/DandelionWithCamera9904BB5C49C19C09472B8DAEAD59C5B9.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Content/Blueprints/Spline3/DandelionWithCamera.uasset'
+[2024.01.25-00.00.52:690][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.54 sec (total: 2:22 min)
+[2024.01.25-00.00.52:709][625]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.25-00.00.52:709][625]LogContentValidation: Display: Validating /Script/Engine.World /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene
+[2024.01.25-00.00.52:709][625]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Models/BOBOBOOB/physics/seeds/ACTORSEEDS.ACTORSEEDS
+[2024.01.25-00.00.52:709][625]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Models/BOBOBOOB/physics/b_KANKER_seed5_Skeleton_Sequence.b_KANKER_seed5_Skeleton_Sequence
+[2024.01.25-00.00.52:709][625]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Models/BOBOBOOB/physics/b_KANKER_seed6_Skeleton_Sequence.b_KANKER_seed6_Skeleton_Sequence
+[2024.01.25-00.00.52:709][625]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Models/BOBOBOOB/physics/b_KANKER_seed7_Skeleton_Sequence.b_KANKER_seed7_Skeleton_Sequence
+[2024.01.25-00.00.52:709][625]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Spline3/DandelionWithCamera.DandelionWithCamera
+[2024.01.25-00.00.57:700][829]LogViewport: Scene viewport resized to 1533x1260, mode Windowed.
+[2024.01.25-00.02.56:932][285]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/BOBOBOOB/physics/seeds/ACTORSEEDS.ACTORSEEDS
+[2024.01.25-00.02.56:932][285]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-00.02.56:932][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-00.03.48:207][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.01.25-00.03.49:224][104]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.25-00.03.49:291][104]LogSlate: Window 'ACTORSEEDS' being destroyed
+[2024.01.25-00.03.49:309][104]LogWorld: UWorld::CleanupWorld for World_129, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-00.03.49:309][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.03.49:338][104]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/BOBOBOOB/physics/seeds/ACTORSEEDS.ACTORSEEDS
+	Asset Type: Blueprint
+[2024.01.25-00.03.49:976][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.01.25-00.03.50:001][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2024.01.25-00.03.50:022][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.25-00.03.56:348][421]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.25-00.03.56:363][421]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.25-00.03.56:381][421]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.25-00.03.56:407][422]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.25-00.03.57:991][497]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.01.25-00.03.58:005][497]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.25-00.03.58:778][545]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/BOBOBOOB/physics/seeds/NewBlueprint.NewBlueprint
+[2024.01.25-00.03.58:778][545]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-00.03.58:778][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-00.03.58:958][545]LogViewport: Scene viewport resized to 1632x951, mode Windowed.
+[2024.01.25-00.10.50:300][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.01.25-00.10.50:311][145]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene' took 0.031
+[2024.01.25-00.10.50:311][145]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint] ([2] browsable assets)...
+[2024.01.25-00.10.50:311][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint]
+[2024.01.25-00.10.50:314][145]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint_Auto5
+[2024.01.25-00.10.50:314][145]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/NewBlueprint_Auto512FA5A5D438CE49DBE80F9BE793BF7AC.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint_Auto5.uasset'
+[2024.01.25-00.10.50:316][145]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.01.25-00.11.09:128][ 53]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Models/BOBOBOOB/physics/finale_anim.finale_anim
+[2024.01.25-00.11.09:317][ 53]LogViewport: Scene viewport resized to 1533x869, mode Windowed.
+[2024.01.25-00.12.41:444][850]LogFbx: Loading FBX Scene from ../../../../../../Users/Joost/Downloads/b_KANKER.fbx
+[2024.01.25-00.12.41:687][850]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.25-00.12.41:706][850]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (RootNode).
+[2024.01.25-00.12.41:706][850]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed4).
+[2024.01.25-00.12.41:706][850]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed5).
+[2024.01.25-00.12.41:706][850]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed6).
+[2024.01.25-00.12.41:706][850]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed7).
+[2024.01.25-00.12.41:717][850]LogSlate: Window 'Import FBX' being destroyed
+[2024.01.25-00.14.35:463][ 99]LogFbx: Loading FBX Scene from ../../../../../../Users/Joost/Downloads/b_KANKER.fbx
+[2024.01.25-00.14.35:664][ 99]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.25-00.14.35:679][ 99]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed4). Defaulting to first available (b_KANKER_seed7_Anim10).
+[2024.01.25-00.14.35:682][ 99]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed5). Defaulting to first available (b_KANKER_seed4_Skeleton).
+[2024.01.25-00.14.35:684][ 99]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed6). Defaulting to first available (b_KANKER_seed4_Skeleton2).
+[2024.01.25-00.14.35:687][ 99]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed7). Defaulting to first available (b_KANKER_seed4_Skeleton3).
+[2024.01.25-00.14.35:687][ 99]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (RootNode).
+[2024.01.25-00.14.35:700][ 99]LogSlate: Window 'Import FBX' being destroyed
+[2024.01.25-00.16.11:664][876]Cmd: TRANSACTION UNDO
+[2024.01.25-00.16.11:664][876]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.25-00.16.13:659][961]LogViewport: Scene viewport resized to 1533x866, mode Windowed.
+[2024.01.25-00.16.13:693][962]LogViewport: Scene viewport resized to 1533x856, mode Windowed.
+[2024.01.25-00.16.13:746][963]LogViewport: Scene viewport resized to 1533x819, mode Windowed.
+[2024.01.25-00.16.13:809][964]LogViewport: Scene viewport resized to 1533x773, mode Windowed.
+[2024.01.25-00.16.13:851][965]LogViewport: Scene viewport resized to 1533x749, mode Windowed.
+[2024.01.25-00.16.13:898][966]LogViewport: Scene viewport resized to 1533x719, mode Windowed.
+[2024.01.25-00.16.13:943][967]LogViewport: Scene viewport resized to 1533x704, mode Windowed.
+[2024.01.25-00.16.13:987][968]LogViewport: Scene viewport resized to 1533x693, mode Windowed.
+[2024.01.25-00.16.14:030][969]LogViewport: Scene viewport resized to 1533x684, mode Windowed.
+[2024.01.25-00.16.14:073][970]LogViewport: Scene viewport resized to 1533x682, mode Windowed.
+[2024.01.25-00.16.14:119][971]LogViewport: Scene viewport resized to 1533x669, mode Windowed.
+[2024.01.25-00.16.14:165][972]LogViewport: Scene viewport resized to 1533x666, mode Windowed.
+[2024.01.25-00.16.14:210][973]LogViewport: Scene viewport resized to 1533x663, mode Windowed.
+[2024.01.25-00.16.14:254][974]LogViewport: Scene viewport resized to 1533x662, mode Windowed.
+[2024.01.25-00.16.55:709][111]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Models/BOBOBOOB/physics/b_KANKER_seed7_Skeleton_Sequence.b_KANKER_seed7_Skeleton_Sequence
+[2024.01.25-00.16.55:712][111]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed7 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.b_KANKER_seed7_Skeleton_Sequence_11
+[2024.01.25-00.18.12:119][743]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed7
+[2024.01.25-00.18.12:121][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-00.18.12:121][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-00.18.12:137][743]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_131:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.25-00.18.12:431][743]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2024.01.25-00.18.12:444][743]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed7_Anim.b_KANKER_seed7_Anim
+[2024.01.25-00.18.12:444][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-00.18.12:444][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-00.18.12:456][743]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.25-00.18.12:735][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-00.18.12:735][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-00.18.12:794][743]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed4
+[2024.01.25-00.18.12:795][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-00.18.12:795][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-00.18.12:804][743]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_134:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.25-00.18.13:099][743]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2024.01.25-00.18.13:116][743]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed5
+[2024.01.25-00.18.13:117][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-00.18.13:117][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-00.18.13:129][743]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_135:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.25-00.18.13:422][743]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2024.01.25-00.18.13:434][743]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed5_Anim.b_KANKER_seed5_Anim
+[2024.01.25-00.18.13:435][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-00.18.13:435][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-00.18.13:444][743]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_136:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.25-00.18.13:727][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-00.18.13:727][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-00.18.13:804][743]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed6
+[2024.01.25-00.18.13:805][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-00.18.13:805][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-00.18.13:816][743]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_138:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.25-00.18.14:111][743]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2024.01.25-00.18.14:125][743]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed6_Anim.b_KANKER_seed6_Anim
+[2024.01.25-00.18.14:125][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-00.18.14:125][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-00.18.14:136][743]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_139:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.25-00.18.14:415][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-00.18.14:415][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-00.18.15:053][743]LogViewport: Scene viewport resized to 1910x674, mode Windowed.
+[2024.01.25-00.18.34:350][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-00.18.34:436][547]LogSavePackage: Moving output files for package: /Game/Models/BOBOBOOB/physics/finale_anim
+[2024.01.25-00.18.34:436][547]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/finale_anim26D17AC94C7A06BC249B7E92F7C10FC3.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Content/Models/BOBOBOOB/physics/finale_anim.uasset'
+[2024.01.25-00.18.34:444][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 2:22 min)
+[2024.01.25-00.18.34:446][547]AssetCheck: New page: Asset Save: finale_anim
+[2024.01.25-00.18.34:446][547]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Models/BOBOBOOB/physics/finale_anim.finale_anim
+[2024.01.25-00.20.50:508][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.01.25-00.20.51:901][ 48]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto6
+[2024.01.25-00.20.51:902][ 48]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Tentoonstelling_Scene_Auto65FE49F084EA3E7B1177411838A3276A1.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto6.umap'
+[2024.01.25-00.20.51:909][ 48]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto6.umap is in the /Temp path, will not scan.
+[2024.01.25-00.20.51:910][ 48]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene' took 1.434
+[2024.01.25-00.20.51:910][ 48]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.434
+[2024.01.25-00.20.51:911][ 48]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Bo_Models/MESH/seedgrowing_Auto6
+[2024.01.25-00.20.51:912][ 48]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/seedgrowing_Auto6F5B1E5034B695DA5C3F3479959B9174A.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/Bo_Models/MESH/seedgrowing_Auto6.uasset'
+[2024.01.25-00.20.51:913][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint] ([2] browsable assets)...
+[2024.01.25-00.20.51:913][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint]
+[2024.01.25-00.20.51:916][ 48]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint_Auto6
+[2024.01.25-00.20.51:916][ 48]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/NewBlueprint_Auto69F2F93BA452618AE018AC2B46AA81A15.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint_Auto6.uasset'
+[2024.01.25-00.20.51:917][ 48]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.01.25-00.29.32:820][745]LogSlate: Window '40 SkeletalMeshComponent Objects - Property Matrix Editor' being destroyed
+[2024.01.25-00.29.32:827][745]LogSlate: Window '40 SkeletalMeshComponent Objects - Property Matrix Editor' being destroyed
+[2024.01.25-00.29.32:833][745]LogWorld: UWorld::CleanupWorld for World_130, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-00.29.32:833][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.29.32:893][745]LogWorld: UWorld::CleanupWorld for World_131, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-00.29.32:893][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.29.32:978][745]LogWorld: UWorld::CleanupWorld for World_132, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-00.29.32:978][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.29.33:046][745]LogWorld: UWorld::CleanupWorld for World_133, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-00.29.33:046][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.29.33:071][745]LogWorld: UWorld::CleanupWorld for World_134, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-00.29.33:071][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.29.33:153][745]LogWorld: UWorld::CleanupWorld for World_135, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-00.29.33:153][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.29.33:240][745]LogWorld: UWorld::CleanupWorld for World_136, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-00.29.33:240][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.29.33:298][745]LogWorld: UWorld::CleanupWorld for World_137, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-00.29.33:298][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.29.33:320][745]LogWorld: UWorld::CleanupWorld for World_138, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-00.29.33:320][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.29.33:399][745]LogWorld: UWorld::CleanupWorld for World_139, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-00.29.33:399][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.29.33:454][745]LogWorld: UWorld::CleanupWorld for World_140, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-00.29.33:454][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.29.49:516][593]EditorErrors: New page: Actor attachment
+[2024.01.25-00.30.11:574][143]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Models/BOBOBOOB/physics/b_KANKER_seed5_Skeleton_Sequence.b_KANKER_seed5_Skeleton_Sequence
+[2024.01.25-00.30.11:577][143]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed5 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.b_KANKER_seed5_Skeleton_Sequence_12
+[2024.01.25-00.30.15:732][343]Cmd: TRANSACTION UNDO
+[2024.01.25-00.30.15:732][343]LogEditorTransaction: Undo Drop Assets
+[2024.01.25-00.30.33:232][  7]Cmd: TRANSACTION UNDO
+[2024.01.25-00.30.33:232][  7]LogEditorTransaction: Undo Select None
+[2024.01.25-00.30.33:991][ 47]Cmd: TRANSACTION UNDO
+[2024.01.25-00.30.33:991][ 47]LogEditorTransaction: Undo Move into seeds
+[2024.01.25-00.31.27:629][449]LogSlate: Window 'Save Asset As' being destroyed
+[2024.01.25-00.31.27:658][449]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Models/BOBOBOOB/physics/seeds_anim.seeds_anim
+[2024.01.25-00.31.27:658][449]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Models/BOBOBOOB/physics/seeds_anim.seeds_anim
+[2024.01.25-00.31.27:665][449]LogActorFactory: Actor Factory spawned LevelSequence /Game/Models/BOBOBOOB/physics/seeds_anim.seeds_anim as actor: LevelSequenceActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.LevelSequenceActor_1
+[2024.01.25-00.31.27:666][449]LogActorFactory: Actor Factory spawned LevelSequence /Game/Models/BOBOBOOB/physics/seeds_anim.seeds_anim as actor: LevelSequenceActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.LevelSequenceActor_1
+[2024.01.25-00.31.27:699][449]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Models/BOBOBOOB/physics/seeds_anim.seeds_anim
+[2024.01.25-00.31.31:529][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.01.25-00.31.32:871][598]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto7
+[2024.01.25-00.31.32:872][598]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Tentoonstelling_Scene_Auto7784E928543BC8036A6B374A2BA5CEEFB.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto7.umap'
+[2024.01.25-00.31.32:879][598]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto7.umap is in the /Temp path, will not scan.
+[2024.01.25-00.31.32:880][598]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene' took 1.389
+[2024.01.25-00.31.32:880][598]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.389
+[2024.01.25-00.31.32:882][598]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Bo_Models/MESH/seedgrowing_Auto7
+[2024.01.25-00.31.32:882][598]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/seedgrowing_Auto73645DA5B440392CF3A8D178C6AC0B773.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/Bo_Models/MESH/seedgrowing_Auto7.uasset'
+[2024.01.25-00.31.32:884][598]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/BOBOBOOB/physics/finale_anim] ([1] browsable assets)...
+[2024.01.25-00.31.32:884][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/finale_anim]
+[2024.01.25-00.31.32:894][598]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto7
+[2024.01.25-00.31.32:894][598]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/finale_anim_Auto729F02F7C45D72BCF8D9C4E93A7349007.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto7.uasset'
+[2024.01.25-00.31.32:896][598]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint] ([2] browsable assets)...
+[2024.01.25-00.31.32:896][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint]
+[2024.01.25-00.31.32:899][598]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint_Auto7
+[2024.01.25-00.31.32:899][598]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/NewBlueprint_Auto7C79B3E4F41233DFBF58AAF85EA85925F.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint_Auto7.uasset'
+[2024.01.25-00.31.32:900][598]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/BOBOBOOB/physics/seeds_anim] ([1] browsable assets)...
+[2024.01.25-00.31.32:900][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/seeds_anim]
+[2024.01.25-00.31.32:901][598]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/seeds_anim_Auto7
+[2024.01.25-00.31.32:901][598]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/seeds_anim_Auto75E28BE504FB2FEB6BC5CB1825B73BCC9.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/seeds_anim_Auto7.uasset'
+[2024.01.25-00.31.32:902][598]LogFileHelpers: Auto-saving content packages took 0.022
+[2024.01.25-00.32.30:490][902]Cmd: TRANSACTION UNDO
+[2024.01.25-00.32.30:490][902]LogEditorTransaction: Undo Move Elements
+[2024.01.25-00.33.14:384][ 59]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed4_Skeleton.b_KANKER_seed4_Skeleton
+[2024.01.25-00.33.14:384][ 59]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed4_Skeleton.b_KANKER_seed4_Skeleton
+[2024.01.25-00.33.14:386][ 59]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed4 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_102
+[2024.01.25-00.33.14:387][ 59]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed4 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_102
+[2024.01.25-00.33.14:387][ 59]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed5_Skeleton.b_KANKER_seed5_Skeleton
+[2024.01.25-00.33.14:387][ 59]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed5_Skeleton.b_KANKER_seed5_Skeleton
+[2024.01.25-00.33.14:389][ 59]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed5 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_103
+[2024.01.25-00.33.14:390][ 59]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed5 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_103
+[2024.01.25-00.33.14:390][ 59]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed6_Skeleton.b_KANKER_seed6_Skeleton
+[2024.01.25-00.33.14:390][ 59]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed6_Skeleton.b_KANKER_seed6_Skeleton
+[2024.01.25-00.33.14:391][ 59]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed6 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_104
+[2024.01.25-00.33.14:392][ 59]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed6 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_104
+[2024.01.25-00.33.14:393][ 59]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed7_Skeleton.b_KANKER_seed7_Skeleton
+[2024.01.25-00.33.14:393][ 59]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed7_Skeleton.b_KANKER_seed7_Skeleton
+[2024.01.25-00.33.14:394][ 59]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed7 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_105
+[2024.01.25-00.33.14:395][ 59]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed7 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_105
+[2024.01.25-00.33.15:674][131]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed4_Skeleton.b_KANKER_seed4_Skeleton
+[2024.01.25-00.33.15:674][131]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed4_Skeleton.b_KANKER_seed4_Skeleton
+[2024.01.25-00.33.15:678][131]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed4 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_106
+[2024.01.25-00.33.15:679][131]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed4 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_106
+[2024.01.25-00.33.15:710][131]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed5_Skeleton.b_KANKER_seed5_Skeleton
+[2024.01.25-00.33.15:710][131]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed5_Skeleton.b_KANKER_seed5_Skeleton
+[2024.01.25-00.33.15:712][131]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed5 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_107
+[2024.01.25-00.33.15:713][131]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed5 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_107
+[2024.01.25-00.33.15:742][131]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed6_Skeleton.b_KANKER_seed6_Skeleton
+[2024.01.25-00.33.15:742][131]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed6_Skeleton.b_KANKER_seed6_Skeleton
+[2024.01.25-00.33.15:744][131]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed6 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_108
+[2024.01.25-00.33.15:745][131]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed6 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_108
+[2024.01.25-00.33.15:774][131]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed7_Skeleton.b_KANKER_seed7_Skeleton
+[2024.01.25-00.33.15:774][131]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed7_Skeleton.b_KANKER_seed7_Skeleton
+[2024.01.25-00.33.15:776][131]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed7 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_109
+[2024.01.25-00.33.15:777][131]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/BOBOBOOB/physics/seeds/b_KANKER.b_KANKER_seed7 as actor: SkeletalMeshActor /Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene.Tentoonstelling_Scene:PersistentLevel.SkeletalMeshActor_109
+[2024.01.25-00.33.16:796][168]Cmd: TRANSACTION UNDO
+[2024.01.25-00.33.16:797][168]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.25-00.33.56:416][200]LogFbx: Loading FBX Scene from ../../../../../../Users/Joost/Downloads/b_KANKER.fbx
+[2024.01.25-00.33.56:606][200]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.25-00.33.56:618][200]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed4). Defaulting to first available (b_KANKER_seed7_Skeleton).
+[2024.01.25-00.33.56:621][200]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed5). Defaulting to first available (b_KANKER_seed4_Skeleton11).
+[2024.01.25-00.33.56:623][200]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed6). Defaulting to first available (b_KANKER_seed5_Skeleton).
+[2024.01.25-00.33.56:626][200]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed7). Defaulting to first available (b_KANKER_seed6_Skeleton).
+[2024.01.25-00.33.56:626][200]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (RootNode).
+[2024.01.25-00.33.56:636][200]LogSlate: Window 'Import FBX' being destroyed
+[2024.01.25-00.34.55:552][680]Cmd: TRANSACTION UNDO
+[2024.01.25-00.34.55:552][680]LogEditorTransaction: Undo Set Key
+[2024.01.25-00.34.55:770][685]Cmd: TRANSACTION UNDO
+[2024.01.25-00.34.55:770][685]LogEditorTransaction: Undo Rotate Elements
+[2024.01.25-00.34.56:091][693]Cmd: TRANSACTION UNDO
+[2024.01.25-00.34.56:091][693]LogEditorTransaction: Undo Rekey
+[2024.01.25-00.34.56:333][703]Cmd: TRANSACTION UNDO
+[2024.01.25-00.34.56:333][703]LogEditorTransaction: Undo Rotate Elements
+[2024.01.25-00.34.56:829][728]Cmd: TRANSACTION UNDO
+[2024.01.25-00.34.56:829][728]LogEditorTransaction: Undo Rotate Elements
+[2024.01.25-00.34.57:325][753]Cmd: TRANSACTION UNDO
+[2024.01.25-00.34.57:325][753]LogEditorTransaction: Undo Rotate Elements
+[2024.01.25-00.34.57:791][777]Cmd: TRANSACTION UNDO
+[2024.01.25-00.34.57:791][777]LogEditorTransaction: Undo Clicking on Actors
+[2024.01.25-00.34.58:260][798]Cmd: TRANSACTION UNDO
+[2024.01.25-00.34.58:260][798]LogEditorTransaction: Undo Clicking on Actors
+[2024.01.25-00.34.58:685][817]Cmd: TRANSACTION UNDO
+[2024.01.25-00.34.58:685][817]LogEditorTransaction: Undo Clicking on Actors
+[2024.01.25-00.34.59:117][834]Cmd: TRANSACTION UNDO
+[2024.01.25-00.34.59:117][834]LogEditorTransaction: Undo Import FBX
+[2024.01.25-00.35.39:685][  0]LogFbx: Loading FBX Scene from ../../../../../../Users/Joost/Downloads/b_KANKER.fbx
+[2024.01.25-00.35.39:874][  0]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.25-00.35.39:886][  0]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed4). Defaulting to first available (b_KANKER_seed7_Skeleton).
+[2024.01.25-00.35.39:888][  0]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed5). Defaulting to first available (b_KANKER_seed6_Skeleton).
+[2024.01.25-00.35.39:890][  0]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed6). Defaulting to first available (b_KANKER_seed5_Skeleton).
+[2024.01.25-00.35.39:892][  0]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (seed7). Defaulting to first available (b_KANKER_seed4_Skeleton11).
+[2024.01.25-00.35.39:892][  0]LogMovieScene: Warning: Fbx Import: Failed to find any matching node for (RootNode).
+[2024.01.25-00.35.39:903][  0]LogSlate: Window 'Import FBX' being destroyed
+[2024.01.25-00.35.55:297][847]Cmd: TRANSACTION UNDO
+[2024.01.25-00.35.55:298][847]LogEditorTransaction: Undo Clicking on Actors
+[2024.01.25-00.35.55:531][851]Cmd: TRANSACTION UNDO
+[2024.01.25-00.35.55:531][851]LogEditorTransaction: Undo Import FBX
+[2024.01.25-00.36.13:139][765]Cmd: TRANSACTION UNDO
+[2024.01.25-00.36.13:139][765]LogEditorTransaction: Undo Rotate Elements
+[2024.01.25-00.36.22:406][201]Cmd: TRANSACTION UNDO
+[2024.01.25-00.36.22:406][201]LogEditorTransaction: Undo Rotate Elements
+[2024.01.25-00.36.23:176][226]Cmd: TRANSACTION UNDO
+[2024.01.25-00.36.23:176][226]LogEditorTransaction: Undo Move Elements
+[2024.01.25-00.37.32:378][649]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.32:379][649]LogEditorTransaction: Undo Set Key
+[2024.01.25-00.37.35:298][781]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.35:298][781]LogEditorTransaction: Undo Clicking on Actors
+[2024.01.25-00.37.35:744][798]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.35:744][798]LogEditorTransaction: Undo Move Elements
+[2024.01.25-00.37.36:516][835]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.36:516][835]LogEditorTransaction: Undo Move Elements
+[2024.01.25-00.37.37:081][849]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.37:081][849]LogEditorTransaction: Undo Move Elements
+[2024.01.25-00.37.37:584][873]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.37:584][873]LogEditorTransaction: Undo Rotate Elements
+[2024.01.25-00.37.37:959][891]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.37:959][891]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.25-00.37.38:741][926]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.38:742][926]LogEditorTransaction: Undo Move Elements
+[2024.01.25-00.37.39:578][966]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.39:578][966]LogEditorTransaction: Undo Move Elements
+[2024.01.25-00.37.39:968][984]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.39:968][984]LogEditorTransaction: Undo Rotate Elements
+[2024.01.25-00.37.40:169][990]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.40:170][990]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.25-00.37.40:366][992]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.40:366][992]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.25-00.37.40:525][993]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.40:525][993]LogEditorTransaction: Undo Move Elements
+[2024.01.25-00.37.40:679][995]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.40:679][995]LogEditorTransaction: Undo Move Elements
+[2024.01.25-00.37.41:155][ 15]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.41:155][ 15]LogEditorTransaction: Undo Move Elements
+[2024.01.25-00.37.41:351][ 24]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.41:351][ 24]LogEditorTransaction: Undo Rotate Elements
+[2024.01.25-00.37.41:598][ 35]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.41:598][ 35]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.25-00.37.41:991][ 51]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.41:992][ 51]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.25-00.37.42:367][ 66]Cmd: TRANSACTION UNDO
+[2024.01.25-00.37.42:367][ 66]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.25-00.38.09:782][411]Cmd: TRANSACTION UNDO
+[2024.01.25-00.38.09:782][411]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.25-00.38.44:533][612]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2024.01.25-00.38.46:135][612]LogSlate: Window 'Animation Sequence Options' being destroyed
+[2024.01.25-00.38.46:201][612]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed7_Skeleton_Sequence.b_KANKER_seed7_Skeleton_Sequence
+[2024.01.25-00.38.46:201][612]LogAnimationCompression: Display: Storing compressed animation data for /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed7_Skeleton_Sequence.b_KANKER_seed7_Skeleton_Sequence, at AnimationSequence/2daf7813abb3044846b27dbcdaf420f064ebcf23
+[2024.01.25-00.38.54:200][978]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed7_Skeleton_Sequence.b_KANKER_seed7_Skeleton_Sequence
+[2024.01.25-00.38.54:201][978]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-00.38.54:201][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-00.38.54:208][978]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_141:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.25-00.38.54:502][978]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-00.38.54:502][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-00.38.54:555][978]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_141:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.25-00.38.54:654][978]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-00.38.54:654][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-00.38.54:668][978]LogViewport: Scene viewport resized to 1525x882, mode Windowed.
+[2024.01.25-00.38.54:708][978]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.25-00.38.56:803][ 45]LogSlate: Window 'b_KANKER_seed7_Skeleton_Sequence' being destroyed
+[2024.01.25-00.38.56:810][ 45]LogSlate: Window 'b_KANKER_seed7_Skeleton_Sequence' being destroyed
+[2024.01.25-00.38.56:835][ 45]LogWorld: UWorld::CleanupWorld for World_143, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-00.38.56:835][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.38.56:849][ 45]LogWorld: UWorld::CleanupWorld for World_141, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-00.38.56:849][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.38.56:906][ 45]LogWorld: UWorld::CleanupWorld for World_142, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-00.38.56:906][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-00.39.47:049][728]LogSlate: Window 'Bake Transforms' being destroyed
+[2024.01.25-00.39.55:195][125]Cmd: TRANSACTION UNDO
+[2024.01.25-00.39.55:196][125]LogEditorTransaction: Undo Bake Transform
+[2024.01.25-00.40.19:966][388]LogDerivedDataCache: C:/Users/Joost/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:31.313 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16512 files in 19163 folders with total size 2675 MiB.
+[2024.01.25-00.41.30:824][203]LogSlate: Window 'Bake Transforms' being destroyed
+[2024.01.25-00.41.38:251][499]Cmd: TRANSACTION UNDO
+[2024.01.25-00.41.38:251][499]LogEditorTransaction: Undo Bake Transform
+[2024.01.25-00.41.53:763][581]LogSlate: Window 'Bake Transforms' being destroyed
+[2024.01.25-00.41.59:346][857]Cmd: TRANSACTION UNDO
+[2024.01.25-00.41.59:346][857]LogEditorTransaction: Undo Bake Transform
+[2024.01.25-00.42.13:572][547]LogSlate: Window 'Bake Transforms' being destroyed
+[2024.01.25-00.43.15:160][127]LogUObjectHash: Compacting FUObjectHashTables data took   9.85ms
+[2024.01.25-00.43.16:479][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto8
+[2024.01.25-00.43.16:479][127]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Tentoonstelling_Scene_Auto89A4F744C400330B7F25F398E193913AB.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto8.umap'
+[2024.01.25-00.43.16:486][127]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene_Auto8.umap is in the /Temp path, will not scan.
+[2024.01.25-00.43.16:487][127]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DreamscapeSeries/DreamscapeTower/Maps/Tentoonstelling_Scene' took 1.359
+[2024.01.25-00.43.16:487][127]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.359
+[2024.01.25-00.43.16:488][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Bo_Models/MESH/seedgrowing_Auto8
+[2024.01.25-00.43.16:488][127]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/seedgrowing_Auto83A6B68C94CBED43870110D90B2BA9111.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/Bo_Models/MESH/seedgrowing_Auto8.uasset'
+[2024.01.25-00.43.16:490][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/BOBOBOOB/physics/finale_anim] ([1] browsable assets)...
+[2024.01.25-00.43.16:490][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/finale_anim]
+[2024.01.25-00.43.16:500][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto8
+[2024.01.25-00.43.16:500][127]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/finale_anim_Auto85C737C88429E8DEA7CCADCADC5DE3DEB.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/finale_anim_Auto8.uasset'
+[2024.01.25-00.43.16:502][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint] ([2] browsable assets)...
+[2024.01.25-00.43.16:502][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint]
+[2024.01.25-00.43.16:505][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint_Auto8
+[2024.01.25-00.43.16:505][127]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/NewBlueprint_Auto8921BA0D3489563605838679CCD0A75EE.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/seeds/NewBlueprint_Auto8.uasset'
+[2024.01.25-00.43.16:506][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/BOBOBOOB/physics/seeds_anim] ([1] browsable assets)...
+[2024.01.25-00.43.16:506][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/seeds_anim]
+[2024.01.25-00.43.16:512][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/seeds_anim_Auto8
+[2024.01.25-00.43.16:512][127]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/seeds_anim_Auto8C2421CA642462B9A5429209CBFCD9BE3.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/seeds_anim_Auto8.uasset'
+[2024.01.25-00.43.16:514][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed7_Skeleton_Sequence] ([1] browsable assets)...
+[2024.01.25-00.43.16:525][127]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed7_Skeleton_Sequence.b_KANKER_seed7_Skeleton_Sequence]
+[2024.01.25-00.43.16:525][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed7_Skeleton_Sequence]
+[2024.01.25-00.43.16:528][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed7_Skeleton_Sequence_Auto8
+[2024.01.25-00.43.16:528][127]LogSavePackage: Moving '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/b_KANKER_seed7_Skeleton_Sequence0FAD46AC40B2D92EB7434ABBB4F1E0B3.tmp' to '../../../../../../Users/Joost/Documents/HKU/Jaar 3 Art/GIT/Context_III/Unreal_Context_III/Context_III/Saved/Autosaves/Game/Models/BOBOBOOB/physics/seeds/b_KANKER_seed7_Skeleton_Sequence_Auto8.uasset'
+[2024.01.25-00.43.16:529][127]LogFileHelpers: Auto-saving content packages took 0.042
+[2024.01.25-00.54.41:696][695]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Razer Seiren X), InstanceID=1
+[2024.01.25-00.54.41:705][695]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25344
+[2024.01.25-00.54.41:765][698]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f840402f-4be8-44f2-b2c3-4490c9eee66f}, Name=Speakers (Razer Seiren X)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=44.06
+[2024.01.25-00.54.41:765][698]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.25-00.54.41:767][698]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.25-01.40.20:801][219]LogDerivedDataCache: C:/Users/Joost/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:32.148 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16512 files in 19163 folders with total size 2675 MiB.
+[2024.01.25-02.40.43:185][153]LogDerivedDataCache: C:/Users/Joost/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:54.532 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16512 files in 19163 folders with total size 2675 MiB.
+[2024.01.25-03.40.20:118][541]LogDerivedDataCache: C:/Users/Joost/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:31.463 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16512 files in 19163 folders with total size 2675 MiB.
+[2024.01.25-04.40.21:166][414]LogDerivedDataCache: C:/Users/Joost/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:32.510 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16512 files in 19163 folders with total size 2675 MiB.
+[2024.01.25-05.04.11:826][381]LogD3D12RHI: Display: D3D12 CreateCommittedResource failed with params:
+	Heap Type: 2
+	Heap Flags: 4096
+	Resource Dimension: 1
+	Resource Width: 4194304
+	Resource Height: 1
+	Format: 0
+	Resource Flags: 0
+[2024.01.25-05.04.11:826][381]LogD3D12RHI: Error: hr failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Resources.cpp:519 
+ with error E_OUTOFMEMORY
+
+[2024.01.25-05.40.20:253][381]LogDerivedDataCache: C:/Users/Joost/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:31.594 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16512 files in 19163 folders with total size 2675 MiB.
+[2024.01.25-06.40.20:881][381]LogDerivedDataCache: C:/Users/Joost/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:32.221 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16512 files in 19163 folders with total size 2675 MiB.
+[2024.01.25-07.40.10:513][381]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G27CQ4 (NVIDIA High Definition Audio), InstanceID=1
+[2024.01.25-07.40.20:997][381]LogDerivedDataCache: C:/Users/Joost/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:32.337 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16512 files in 19163 folders with total size 2675 MiB.
+[2024.01.25-07.40.25:964][381]LogConsoleResponse:      1 = 66624 KB (2D 11560x11560 PF_DXT1 sRGB UAV) VirtualPhysicalTexture
+[2024.01.25-07.40.25:964][381]LogConsoleResponse:      4 = 65728 KB (2D 2856x2856 PF_FloatRGBA sRGB) VirtualPhysicalTexture
+[2024.01.25-07.40.25:964][381]LogConsoleResponse:      2 = 65536 KB (2D 8160x8160 PF_G8 sRGB) VirtualPhysicalTexture
+[2024.01.25-07.40.25:964][381]LogConsoleResponse:     90 = 65536 KB (3D 1024x1024x64 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:964][381]LogConsoleResponse:      3 = 65280 KB (2D 4080x4080 PF_B8G8R8A8 sRGB) VirtualPhysicalTexture
+[2024.01.25-07.40.25:964][381]LogConsoleResponse:     29 = 65280 KB (2D 8160x8160 PF_BC5 sRGB UAV) VirtualPhysicalTexture
+[2024.01.25-07.40.25:964][381]LogConsoleResponse:     93 = 30592 KB (2D 5544x5544 PF_DXT5 sRGB UAV) VirtualPhysicalTexture
+[2024.01.25-07.40.25:964][381]LogConsoleResponse:     98 = 30592 KB (2D 5544x5544 PF_DXT5 sRGB UAV) VirtualPhysicalTexture
+[2024.01.25-07.40.25:964][381]LogConsoleResponse:     97 = 26880 KB (2D 3584x1888 PF_R32_FLOAT RT) Composite.PrimitivesDepthHistory
+[2024.01.25-07.40.25:964][381]LogConsoleResponse:    103 = 26880 KB (2D 3584x1888 PF_R32_FLOAT RT) Composite.PrimitivesDepthHistory unused(1)
+[2024.01.25-07.40.25:964][381]LogConsoleResponse:     13 = 16384 KB (3D 1024x1024x16 PF_R8 UAV) GlobalDistanceField.PageAtlas
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:    142 = 12288 KB (2D 6144x1024 PF_ShadowDepth) WholeSceneShadowmap unused(1)
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:    139 = 10944 KB (2D 4096x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:    143 = 10944 KB (2D 4096x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB unused(1)
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:      6 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     12 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     74 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     59 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:    102 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:    101 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     45 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     68 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:    105 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     23 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:    108 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:    131 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     94 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:    122 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     30 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:    119 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     32 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     33 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:    109 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     35 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:    114 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     37 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     38 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     39 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     40 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:    115 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     42 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     43 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     89 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     69 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     87 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     47 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     48 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     84 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:    117 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     81 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     80 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     53 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     54 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     55 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     76 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     57 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     58 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     99 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:    118 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     61 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     73 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     72 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     64 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     70 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:965][381]LogConsoleResponse:     66 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     67 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    137 = 7168 KB (2D 1792x944 PF_A2B10G10R10 UAV) TSR.History.Guide
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    136 = 7168 KB (2D 1792x944 PF_FloatR11G11B10 UAV) TSR.Output
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    146 = 7168 KB (2D 1792x944 PF_FloatR11G11B10 UAV) TSR.Output unused(1)
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    141 = 7168 KB (2D 1792x944 PF_R32_UINT UAV) TSR.History.SubpixelDepth
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     71 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     62 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     63 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     49 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     75 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     56 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     77 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     78 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     79 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     52 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     51 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     50 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     83 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     65 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     85 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     86 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     46 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     88 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     44 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     41 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     91 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     36 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     34 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     28 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     95 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     96 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     26 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     24 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     19 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    100 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     60 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     82 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:      9 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    104 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    113 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    106 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    107 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    130 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    128 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    127 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    111 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    134 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    123 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:      5 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    125 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    116 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:      8 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    133 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    124 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    120 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    121 = 5504 KB (2D 2048x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    138 = 3584 KB (2D 896x472 PF_FloatRGBA UAV) DOF.TemporalAA
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    145 = 3584 KB (2D 896x472 PF_FloatRGBA UAV) DOF.TemporalAA unused(1)
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     22 = 2112 KB (Cube[2] 128 PF_FloatRGBA) ReflectionEnvs
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    112 = 1792 KB (2D 1792x944 PF_R8 RT) Final Luminance
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    129 = 1792 KB (2D 1792x944 PF_R8 UAV) TSR.History.Metadata
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    110 = 1792 KB (2D 1792x944 PF_R8 UAV) TSR.History.Metadata unused(1)
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    135 = 1792 KB (2D 896x472 PF_FloatR11G11B10 UAV) TSR.HalfResOutput
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    144 = 1408 KB (2D 1024x512 PF_R16F UAV) HZBFurthest
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    140 = 1408 KB (2D 1024x512 PF_R16F UAV) HZBFurthest
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    126 = 1408 KB (2D 512x512 PF_R32_FLOAT UAV) Shadow.AtlasHZB
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:    132 = 704 KB (2D 512x512 PF_R16_UINT RT) VirtualPageTable_0
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     15 = 448 KB (3D 35x35x140 PF_R8 UAV) GlobalDistanceField.MipTexture
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     14 = 320 KB (3D 20x20x80 PF_R32_UINT UAV) GlobalDistanceField.PageTableCombined
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     17 = 320 KB (3D 20x20x80 PF_R32_UINT UAV) GlobalDistanceField.PageTableMovableLayer
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     16 = 320 KB (3D 20x20x80 PF_R32_UINT UAV) GlobalDistanceField.PageTableStationaryLayer
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     92 = 128 KB (2D[1] 256x256 PF_R16F RT UAV) IES.AtlasTexture
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     21 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2024.01.25-07.40.25:966][381]LogConsoleResponse:     20 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:     31 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:      7 = 64 KB (2D 32x32 PF_R16_UINT RT) VirtualPageTable_0
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:     27 = 64 KB (2D 32x32 PF_R32G32B32A32_UINT RT) VirtualPageTable_0
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:     25 = 64 KB (2D 32x32 PF_R32G32B32A32_UINT RT) VirtualPageTable_0
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:     10 = 64 KB (3D 1x1x1 PF_B8G8R8A8 RT) HairLUT0
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:     18 = 36 KB (2D 66x64 PF_A16B16G16R16) SSProfiles
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:     11 = 8 KB (2D 768x8 PF_R8) AsciiTexture
+[2024.01.25-07.40.25:967][381]LogConsoleResponse: 
+[2024.01.25-07.40.25:967][381]LogConsoleResponse: Pool: 1225/1288 MB (referenced/allocated)
+[2024.01.25-07.40.25:967][381]LogConsoleResponse: 
+[2024.01.25-07.40.25:967][381]LogConsoleResponse: RDGResourceName (what was rendered this frame, use <RDGResourceName>@<Version> to get intermediate versions):
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    AmbientOcclusion                 DOF.ScatterBokehLUT        Nanite.VisBuffer64     Shadow.AtlasHZB                TSR.HistoryRejection
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    AmbientOcclusionSetup            DOF.TemporalAA             OIT.SampleColor        ShadowMaskTexture              TSR.Moire.Luma
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    BloomX                           Dummy-OutDepthBuffer       OIT.SampleCount        Substrate.DummyWritableTexture TSR.Output
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    BloomY                           Editor.PrimitivesColor     OIT.SampleDepth        Tonemap                        TSR.ParallaxFactor
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    Composite.PrimitivesDepth        Editor.SelectionOutline    OIT.SampleTrans        Translucency.AfterDOF.Color    TSR.ParallaxRejectionMask
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    Composite.PrimitivesDepthHistory EyeAdaptationTexture       RenderTarget           TranslucentVolumeAmbient0      TSR.PrevClosestDepthTexture
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    DebugSSR                         Final Luminance            Scene(1/16)            TranslucentVolumeAmbient1      TSR.PrevScatteredSubpixelDepth
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    DistortedSceneColor              GBufferA                   Scene(1/32)            TranslucentVolumeDirectional0  TSR.PrevUseCountTexture
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    Distortion                       GBufferB                   Scene(1/4)             TranslucentVolumeDirectional1  TSR.ReprojectedHistoryGuide
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    DOF.DilateBgdCoc                 GBufferC                   Scene(1/64)            TSR.AntiAliasing.Filtered      TSR.SceneColorLdrLuma
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    DOF.DilateFgdCoc                 GBufferD                   Scene(1/8)             TSR.AntiAliasing.Noise         TSR.Velocity.Dilated
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    DOF.FlattenBgdCoc                HeterogeneousVolumes       SceneColor             TSR.AntiAliasing.Raw           TSR.Velocity.HoleFilled
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    DOF.FlattenFgdCoc                HZBFurthest                SceneDepthZ            TSR.ClosestDepthTexture        TSR.velocity.HoleFillMask
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    DOF.GatherBackground             Nanite.DepthBuffer32       SceneVelocity          TSR.HalfResOutput              ViewFamilyTexture
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    DOF.HalfResSetup                 Nanite.MaterialDepth       ScreenSpaceAO          TSR.History.Guide              WholeSceneShadowmap
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    DOF.Recombine                    Nanite.PreviousOccluderHZB ScreenSpaceReflections TSR.History.Metadata
+[2024.01.25-07.40.25:967][381]LogConsoleResponse:    DOF.Reduce                       Nanite.ShadingMask         SelectionOutlineColor  TSR.History.SubpixelDepth
+[2024.01.25-07.40.25:967][381]LogConsoleResponse: 
+[2024.01.25-07.40.25:967][381]Cmd: rhi.DumpMemory
+[2024.01.25-07.40.26:007][381]RHI resource memory (not tracked by our allocator)
+[2024.01.25-07.40.26:008][381]        46.276MB  -  Bindless Resource Heap - STAT_BindlessResourceHeapMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:008][381]         1.004MB  -  Bindless Sampler Heap - STAT_BindlessSamplerHeapMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:008][381]         0.000MB  -  Misc Buffer Memory - STAT_MiscBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:008][381]         0.000MB  -  Draw Indirect Buffer Memory - STAT_DrawIndirectBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:008][381]       697.580MB  -  Byte Address Buffer Memory - STAT_ByteAddressBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:008][381]        60.864MB  -  Structured Buffer Memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:008][381]         0.000MB  -  RayTracing Acceleration Structure Memory - STAT_RTAccelerationStructureMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:008][381]       925.788MB  -  Vertex Buffer Memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:008][381]       173.726MB  -  Index Buffer Memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:008][381]      -201.189MB  -  Uniform Buffer Memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:008][381]       105.621MB  -  Texture Cube Memory - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:008][381]         2.500MB  -  Texture 3D Memory - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:008][381]       546.586MB  -  Texture 2D Memory - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:008][381]      1115.562MB  -  UAV Texture Memory - STAT_UAVTextureMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:009][381]         0.000MB  -  Render Target Cube Memory - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:009][381]         0.188MB  -  Render Target 3D Memory - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:009][381]      3211.375MB  -  Render Target 2D Memory - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2024.01.25-07.40.26:009][381]6685.882MB total
+[2024.01.25-07.40.26:011][381]LogWindows: FPlatformMisc::RequestExit(1, D3D12Util.TerminateOnOutOfMemory)
+[2024.01.25-07.40.26:011][381]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 0, D3D12Util.TerminateOnOutOfMemory)
+[2024.01.25-07.40.26:012][381]LogCore: Engine exit requested (reason: Win RequestExit)
+[2024.01.25-07.40.26:012][381]Cmd: Mem FromReport
+[2024.01.25-07.40.26:013][381]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.01.25-07.40.26:013][381]LogMemory: Process Physical Memory: 8111.29 MB used, 12430.90 MB peak
+[2024.01.25-07.40.26:013][381]LogMemory: Process Virtual Memory: 45047.63 MB used, 45049.62 MB peak
+[2024.01.25-07.40.26:013][381]LogMemory: Physical Memory: 15377.09 MB used,  952.86 MB free, 16329.95 MB total
+[2024.01.25-07.40.26:013][381]LogMemory: Virtual Memory: 60347.43 MB used,  5134.52 MB free, 65481.95 MB total
+[2024.01.25-07.40.26:013][381]LogMemory: 
+[2024.01.25-07.40.26:013][381]Allocator Stats for Mimalloc: (not implemented)
+[2024.01.25-07.40.26:013][381]LogMemory: Memory Stats:
+[2024.01.25-07.40.26:014][381]LogMemory: FMemStack (gamethread) current size = 0.00 MB
+[2024.01.25-07.40.26:014][381]LogMemory: FPageAllocator (all threads) allocation size [used/ unused] = [9.69 / 4.44] MB
+[2024.01.25-07.40.26:014][381]LogMemory: Nametable memory usage = 17.51 MB
